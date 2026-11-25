@@ -31,7 +31,7 @@ Set `CROPS=off` in Netlify's environment to replace every AQA crop with a link t
 ## Content that needs the tutor's check before launch
 - The 14 key-term decks in `src/data/decks/` (`"checked": false` shows a "being checked" line).
 - The notes on `/research-methods/` and `/maths-skills/` and the level summaries on `/essays/` and `/nine-mark-questions/`.
-- Oliver's profile in `src/data/tutors.json`: the bio is from Tom's notes of 25 November 2026 (AQA examiner for five years, teaches at a top sixth-form college), `fee` is `null` (shows "Fee on enquiry") and there is no photo (add `public/tutors/oliver.webp`, 320×320, and set `"photo": "/tutors/oliver.webp"`).
+- Oliver's profile in `src/data/tutors.json`: the bio is from Tom's notes of 25 November 2026 (AQA examiner for five years, teaches at a top sixth-form college), `fee` is £100 per hour (Tom, 25 November 2026) and there is no photo (add `public/tutors/oliver.webp`, 320×320, and set `"photo": "/tutors/oliver.webp"`).
 
 ## Upkeep
 New papers (AQA publishes each summer's papers the following summer): run the bank pipeline, then `export.py --images`, commit `src/data` and `public/img`. Grade boundaries (`src/data/boundaries.json`) in August; exam dates (`src/data/exams.json`) when AQA updates the timetable.
