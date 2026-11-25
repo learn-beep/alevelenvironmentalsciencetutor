@@ -1,0 +1,48 @@
+{
+ "topic": "energy-technologies",
+ "name": "Future energy supplies",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Energy density",
+   "definition": "The amount of energy per unit mass or volume of a fuel or resource.",
+   "examiner": "Fossil fuels and uranium are high; most renewables are low, so need large areas."
+  },
+  {
+   "term": "Intermittency",
+   "definition": "The way the output of some energy resources varies with conditions that cannot be controlled, such as wind speed and sunlight.",
+   "examiner": "Leads to the need for storage or back-up supplies."
+  },
+  {
+   "term": "Load factor",
+   "definition": "The actual output of a power station or device as a proportion of its maximum possible output over a period.",
+   "examiner": "Low for wind and solar because they do not run at full power all the time."
+  },
+  {
+   "term": "Peak shaving",
+   "definition": "Storing surplus energy when demand is low and using it to meet peaks in demand.",
+   "examiner": "Pumped-storage hydroelectric power is the usual example."
+  },
+  {
+   "term": "Carbon capture and storage",
+   "definition": "Removing carbon dioxide from power station emissions and storing it underground.",
+   "examiner": "Evaluate it: it uses energy and storage sites are limited."
+  },
+  {
+   "term": "Hydraulic fracturing",
+   "definition": "Injecting water, sand and chemicals at high pressure to crack shale and release gas or oil.",
+   "examiner": "Know the concerns: groundwater contamination, water use and induced earthquakes."
+  },
+  {
+   "term": "Nuclear fission",
+   "definition": "Splitting the nucleus of a heavy atom such as uranium-235 by neutron bombardment, releasing energy and more neutrons.",
+   "examiner": "Fusion joins light nuclei and is not yet a commercial energy source."
+  },
+  {
+   "term": "Energy return on investment (EROI)",
+   "definition": "The ratio of the energy obtained from a resource to the energy used to obtain it.",
+   "examiner": "A resource with a ratio near 1 is not worth exploiting."
+  }
+ ]
+}

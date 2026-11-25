@@ -1,0 +1,43 @@
+{
+ "topic": "habitat-conservation",
+ "name": "Habitat conservation",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Plagioclimax",
+   "definition": "A community kept at a stage before the climatic climax by human activity such as grazing, mowing or burning.",
+   "examiner": "Lowland heath, hay meadows and chalk grassland are examples; they need continued management."
+  },
+  {
+   "term": "Ecological succession",
+   "definition": "The change in the community of species in an area over time, as each community changes the conditions for the next.",
+   "examiner": "Management often aims to hold succession at a chosen stage."
+  },
+  {
+   "term": "Biological corridor",
+   "definition": "A strip of habitat linking isolated areas so that individuals can move between them.",
+   "examiner": "Links populations, so increases the gene pool and allows recolonisation."
+  },
+  {
+   "term": "Rewilding",
+   "definition": "Restoring natural processes, often by reintroducing species that were lost, and then reducing human management.",
+   "examiner": "Know a named example of a reintroduced species and its effect."
+  },
+  {
+   "term": "Keystone species",
+   "definition": "A species whose effect on its ecosystem is much larger than its abundance would suggest.",
+   "examiner": "Losing it changes the whole community, so it is a priority for conservation."
+  },
+  {
+   "term": "In situ conservation",
+   "definition": "Protecting a species in its natural habitat.",
+   "examiner": "Contrast with ex situ conservation, such as captive breeding and seed banks."
+  },
+  {
+   "term": "Edge effect",
+   "definition": "The different conditions at the boundary of a habitat compared with its interior.",
+   "examiner": "Small or narrow reserves have a high proportion of edge, which suits some species and not others."
+  }
+ ]
+}

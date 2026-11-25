@@ -1,0 +1,73 @@
+---
+import Base from '../../layouts/Base.astro';
+import QuestionCard from '../../components/QuestionCard.astro';
+import Motif from '../../components/Motif.astro';
+import Icon from '../../components/Icon.astro';
+import Hint from '../../components/Hint.astro';
+import { allTopics, questionsForTopic } from '../../lib/data';
+import { deckFor } from '../../lib/decks';
+import { badgeClass, badgeText, motifFor, whereExamined } from '../../lib/groups';
+export function getStaticPaths() {
+  return allTopics.map((t) => ({ params: { slug: t.slug }, props: { topic: t } }));
+}
+const { topic } = Astro.props;
+const qs = questionsForTopic(topic.slug);
+const current = qs.filter((q) => !q.notCurrentSpec);
+const essays = current.filter((q) => q.format === 'Extended response' || q.format === 'Essay');
+const ask = (q) => q.text.replace(/^Write an essay on one of the following topics\.\s*/i, '').replace(/^(\d ){2}(\. \d )?/, '').replace(/\s*\[\d+ marks?\].*$/, '').slice(0, 240);
+const calcs = current.filter((q) => q.format === 'Calculation');
+const years = [...new Set(qs.map((q) => q.year))].sort((a, b) => b - a);
+const papers = [...new Set(qs.map((q) => q.paper))].sort();
+const FORMATS = [['Short answer', 'Short answer'], ['Data interpretation', 'Data'], ['Calculation', 'Calculations'], ['Practical', 'Practical'], ['Multiple choice', 'Multiple choice'], ['Table completion', 'Tables'], ['Extended response', 'Nine-markers'], ['Essay', 'Essays']];
+const formats = FORMATS.filter(([f]) => current.some((q) => q.format === f));
+const deck = deckFor(topic.slug);
+const motifKind = motifFor(topic);
+const where = whereExamined(topic);
+---
+<Base title={`${topic.name}: AQA A-level Environmental Science past-paper questions with mark schemes`} description={`Every AQA Environmental Science past-paper question on ${topic.name.toLowerCase()} (${current.length} parts), with mark schemes and examiners' comments, filtered by question type.`} context={`topic:${topic.slug}`}>
+  <div class="topic-head"><h1>{topic.name} <span class={badgeClass(topic.group)}>{badgeText(topic.group)}</span></h1><Motif kind={motifKind} /></div>
+  <div class="where">
+    <dl>
+      <dt>Where it is examined</dt><dd>{where}</dd>
+            <dt>Specification</dt><dd>Section {topic.code}, {topic.statements.length} statement{topic.statements.length === 1 ? '' : 's'}</dd>
+      <dt>In the papers</dt><dd>{current.length} question parts: {calcs.length} calculations, {essays.filter((q) => q.format === 'Extended response').length} nine-mark extended responses, {essays.filter((q) => q.format === 'Essay').length} essay titles</dd>
+    </dl>
+  </div>
+  <div class="score-note" id="myscore" hidden></div>
+
+  {deck ? <div class="btn-row"><a class="btn btn-accent" href={`/questions/${topic.slug}/terms/`}><Icon name="layers" />Key terms cards ({deck.terms.length})</a><a class="btn" href="/practice/define/"><Icon name="target" />Define-it drill</a></div> : <p class="muted">Key-term cards for this topic are being written. The past-paper questions below are ready now.</p>}
+
+  <h2>Specification statements</h2>
+  <details class="spec-fold"><summary>Show the {topic.statements.length} statements from the specification</summary><ul class="spec-list">{topic.statements.map((id) => <li><strong>{id}</strong> {topic.statementText[id]}</li>)}</ul></details>
+
+  {essays.length > 0 && <><h2>Nine-mark questions and essays on this topic</h2>
+  <div class="table-wrap"><table><thead><tr><th>Series</th><th>Paper</th><th>Q</th><th>Marks</th><th>What it asks</th></tr></thead>
+  <tbody>{essays.map((q) => <tr><td>{q.series}</td><td>{q.paper}</td><td><a href={`#${q.id}`}>{q.question}</a></td><td>{q.marks}</td><td>{ask(q)}</td></tr>)}</tbody></table></div></>}
+
+  <h2>Past-paper questions</h2>
+  <p><a class="btn" href={`/questions/${topic.slug}/print/`}><Icon name="printer" />Print this topic as a pack</a></p>
+  <div class="filterbar"><div class="chips" role="group" aria-label="Filter">
+    <button class="chip" type="button" aria-pressed="true" data-filter="">All ({current.length})</button>
+    {formats.map(([f, label]) => <button class="chip" type="button" aria-pressed="false" data-filter={`format:${f}`}>{label}</button>)}
+    {papers.map((p) => <button class="chip" type="button" aria-pressed="false" data-filter={`paper:${p}`}>{p}</button>)}
+    {years.slice(0, 4).map((y) => <button class="chip" type="button" aria-pressed="false" data-filter={`year:${y}`}>{y}</button>)}
+  </div><div class="count" id="count"></div></div>
+  <Hint id="reveal" text="Tap a question to zoom it. The figure, table or passage a question is built on is shown above each of its parts; where a part also needs an earlier part, that folds out above it. The mark scheme and examiner's comment open underneath." />
+  {qs.map((q) => <QuestionCard q={q} />)}
+
+  <script define:vars={{ slug: topic.slug }}>
+    try { const s = JSON.parse(localStorage.getItem('malt-scores') || '{}')[slug]; if (s && s.total) { const el = document.getElementById('myscore'); el.hidden = false; el.innerHTML = `Your practice score on this topic: <strong>${s.earned}/${s.total}</strong> (${Math.round(100 * s.earned / s.total)}%) over ${s.n} question${s.n === 1 ? '' : 's'}. <a href="/practice/">Practise more</a>`; } } catch {}
+  </script>
+  <script>
+    const chips = document.querySelectorAll('.chip[data-filter]');
+    const cards = document.querySelectorAll('.qcard');
+    chips.forEach((c) => c.addEventListener('click', () => {
+      chips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
+      c.setAttribute('aria-pressed', 'true');
+      const f = c.getAttribute('data-filter') || '';
+      const [key, val] = f.split(':');
+      cards.forEach((card) => { card.hidden = !!f && card.getAttribute('data-' + key) !== val; });
+      document.getElementById('count').textContent = `Showing ${[...cards].filter((c) => !c.hidden).length} of ${cards.length}`;
+    }));
+  </script>
+</Base>

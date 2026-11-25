@@ -1,0 +1,43 @@
+{
+ "topic": "fishing-and-aquaculture",
+ "name": "Fishing and aquaculture",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Bycatch",
+   "definition": "Non-target species or undersized fish caught and usually discarded.",
+   "examiner": "Reduced by mesh size and shape, escape panels and acoustic deterrents."
+  },
+  {
+   "term": "Overfishing",
+   "definition": "Catching fish faster than the population can replace them.",
+   "examiner": "Signs: falling catch per unit effort and smaller, younger fish."
+  },
+  {
+   "term": "Catch quota",
+   "definition": "A limit on the mass of a species that may be landed.",
+   "examiner": "Can lead to discards if fish over the quota are thrown back dead."
+  },
+  {
+   "term": "No-take zone",
+   "definition": "An area where no fishing is allowed.",
+   "examiner": "Protects breeding stock; fish spill over into surrounding fished areas."
+  },
+  {
+   "term": "Aquaculture",
+   "definition": "Farming aquatic organisms such as fish, shellfish and seaweed.",
+   "examiner": "Extensive systems have low inputs and stocking density; intensive systems have high."
+  },
+  {
+   "term": "Demersal",
+   "definition": "Living on or near the sea bed.",
+   "examiner": "Caught by trawling, which damages the sea bed; pelagic fish live in open water."
+  },
+  {
+   "term": "Polyculture",
+   "definition": "Farming several species together so that the wastes of one are used by another.",
+   "examiner": "Reduces pollution and raises total yield."
+  }
+ ]
+}

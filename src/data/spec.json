@@ -1,0 +1,5942 @@
+[
+{
+"code": "3.1.1.1",
+"title": "How the main conditions, which allowed early life to develop and survive on planet Earth, came about",
+"paper": 2,
+"option": null,
+"area": "Conditions for life on Earth",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conditions-for-life-on-earth",
+"statements": [
+{
+"id": "3.1.1.1-01",
+"short": "",
+"text": "Atmosphere",
+"guidance": "The mass of Earth and force of gravity retained an atmosphere. The atmosphere provided gaseous resources: carbon dioxide, methane, nitrogen. Atmospheric pressure and temperature maintained liquid water.",
+"level": null,
+"points": null,
+"page": 9,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.1-02",
+"short": "",
+"text": "Insolation",
+"guidance": "A suitable temperature range was controlled by incoming insolation and its behaviour in the atmosphere. This was controlled by the surface albedo, absorption of infrared energy and the presence of the atmosphere.",
+"level": null,
+"points": null,
+"page": 9,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.1-03",
+"short": "",
+"text": "Position in the solar system",
+"guidance": "Suitable temperatures were maintained by the distance from the Sun.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.1-04",
+"short": "",
+"text": "Orbital behaviour",
+"guidance": "The rotation and tilt of the Earth on its axis and its orbit around the Sun, controlled daily and seasonal variations in insolation and temperatures.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.1-05",
+"short": "",
+"text": "Magnetosphere",
+"guidance": "The magnetosphere provides protection from radiation: the Earth’s molten core produced a magnetic field (magnetosphere) that deflects solar radiation.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+}
+]
+},
+{
+"code": "3.1.1.2",
+"title": "How the presence of life on Earth has brought about environmental change",
+"paper": 2,
+"option": null,
+"area": "Conditions for life on Earth",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conditions-for-life-on-earth",
+"statements": [
+{
+"id": "3.1.1.2-01",
+"short": "",
+"text": "Oxygen production",
+"guidance": "Oxygen was first produced by photosynthetic bacteria, then by algae and plants.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.2-02",
+"short": "",
+"text": "Ozone layer",
+"guidance": "Ozone was produced by chemical reactions involving oxygen and ultraviolet light in the stratosphere.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.2-03",
+"short": "",
+"text": "Carbon sequestration",
+"guidance": "Atmospheric carbon dioxide concentrations were reduced by photoautotrophs.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.2-04",
+"short": "",
+"text": "Biogeochemical cycles",
+"guidance": "The processes of biogeochemical cycles are linked by living organisms, preventing the build-up of waste products or shortages of resources.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+}
+]
+},
+{
+"code": "3.1.1.3",
+"title": "How historical conditions for life were monitored in the past and how these methods have been developed over time",
+"paper": 2,
+"option": null,
+"area": "Conditions for life on Earth",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conditions-for-life-on-earth",
+"statements": [
+{
+"id": "3.1.1.3-01",
+"short": "",
+"text": "Limitations of early methods.",
+"guidance": "• Lack of ancient historical data. • Limited reliability of proxy data for ancient conditions. • Limited coordination between researchers. • Lack of sophisticated equipment for accurate measurements. • Inability to measure many factors. • Lack of data collection in many areas. • Reliance on proxy data, eg dendrochronology, pollen analysis.",
+"level": null,
+"points": null,
+"page": 10,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+},
+{
+"id": "3.1.1.3-02",
+"short": "",
+"text": "Improved methods.",
+"guidance": "• Collection of long-term data sets. • The use of electronic monitoring equipment. • Gas analysis of ice cores. • Isotope analysis of ice cores. • Improved carriers for monitoring equipment, eg helium balloons, aircraft, satellites. (See Research methods (page 85))",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conditions-for-life-on-earth"
+]
+}
+]
+},
+{
+"code": "3.1.2.1.1",
+"title": "Resources and how sustainable habitat management strategies can be used to secure",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "importance-of-biodiversity",
+"statements": [
+{
+"id": "3.1.2.1.1-01",
+"short": "",
+"text": "Wood",
+"guidance": "Timber for structural uses.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.1-02",
+"short": "",
+"text": "Fibres",
+"guidance": "Plant and animal fibres.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.1-03",
+"short": "",
+"text": "Oils",
+"guidance": "Uses of vegetable oils.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.1-04",
+"short": "",
+"text": "Fuels",
+"guidance": "Biofuels.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.1-05",
+"short": "",
+"text": "New foods",
+"guidance": "Many plant species have the potential for commercial cultivation.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+}
+]
+},
+{
+"code": "3.1.2.1.2",
+"title": "Knowledge of how decisions over habitat conservation can be made to protect those",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "importance-of-biodiversity",
+"statements": [
+{
+"id": "3.1.2.1.2-01",
+"short": "",
+"text": "Biomimetics",
+"guidance": "Students should understand that features of living organisms can be copied in the development of new structures and materials, eg: • vehicle design • architecture • structures • adhesion • materials • ultrasound diagnosis.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.2-02",
+"short": "",
+"text": "New medicines",
+"guidance": "New medicines can be developed from the chemicals produced by plants and animals.",
+"level": null,
+"points": null,
+"page": 11,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.2-03",
+"short": "",
+"text": "Physiological research",
+"guidance": "Animal species may be more useful or practical than humans for physiological research.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.2-04",
+"short": "",
+"text": "Wildlife species as pest control agents",
+"guidance": "Many wildlife species can be used to control agricultural pests. They may be predators, herbivores, parasites or pathogens.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.2-05",
+"short": "",
+"text": "Genetic resources",
+"guidance": "New genes to improve crop genetic characteristics may be found in the wild relatives of the cultivated crops. The importance of Centres of Diversity/Vavilov centres for crop wild relatives (CWRs).",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+}
+]
+},
+{
+"code": "3.1.2.1.3",
+"title": "Ecosystem services and their interaction with each other",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "importance-of-biodiversity",
+"statements": [
+{
+"id": "3.1.2.1.3-01",
+"short": "",
+"text": "Atmospheric composition",
+"guidance": "The role of living organisms in the regulation of the composition of the atmosphere: O2, CO2, water vapour.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.3-02",
+"short": "",
+"text": "Biogeochemical cycles",
+"guidance": "The importance of living organisms in biogeochemical cycles.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.3-03",
+"short": "",
+"text": "Interspecies relationships",
+"guidance": "Living organisms often provide services that aid the survival of other species, eg pollination, seed dispersal and habitat provision.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.1.3-04",
+"short": "",
+"text": "Soil maintenance",
+"guidance": "Living organisims are important in soil formation and erosion control, eg plants, detritivores, decomposers.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+}
+]
+},
+{
+"code": "3.1.2.2",
+"title": "How humans influence biodiversity, with examples in a range of different context",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "importance-of-biodiversity",
+"statements": [
+{
+"id": "3.1.2.2-01",
+"short": "",
+"text": "Direct exploitation",
+"guidance": "Populations of many species have been reduced by over-exploitation for resources or deliberate eradication, eg: • food • fashion • entertainment • furniture and ornaments • traditional medicines • other products.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.2-02",
+"short": "",
+"text": "Deliberate eradication",
+"guidance": "Eradication of predators and competitors.",
+"level": null,
+"points": null,
+"page": 12,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.2-03",
+"short": "",
+"text": "Changes in abiotic factors",
+"guidance": "Human activities may change the abiotic features of a habitat, making it more or less suitable for the survival of wildlife. • The changes may be caused by an action, or by inactivity, eg stopping plagioclimax management. • Water availability, eg by drainage or flooding. • Light levels, eg by forest clearance. • Oxygen availability, eg by pollution of water with organic matter. • Nutrient levels, eg fertiliser runoff from farmland. • pH, eg acid mine drainage. • Temperature, eg thermal pollution from power stations.",
+"level": null,
+"points": null,
+"page": 13,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.2-04",
+"short": "",
+"text": "Changes in biotic factors",
+"guidance": "Changing the population size of one species often has an impact on the population size of other species. • Introduced species. • Loss of inter-species relationships.",
+"level": null,
+"points": null,
+"page": 13,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+},
+{
+"id": "3.1.2.2-05",
+"short": "",
+"text": "Habitat destruction",
+"guidance": "Many human activities remove the natural communities of species: • deforestation • expansion of farmland • urbanisation • mineral extraction • flooding by reservoirs.",
+"level": null,
+"points": null,
+"page": 13,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"importance-of-biodiversity"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.1",
+"title": "Setting conservation priorities",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conservation-methods",
+"statements": [
+{
+"id": "3.1.2.3.1-01",
+"short": "",
+"text": "",
+"guidance": "Students should understand that the conservation of biodiversity requires setting priorities about which species and communities are to be conserved.",
+"level": null,
+"points": null,
+"page": 13,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.1-02",
+"short": "",
+"text": "International Union for Conservation of Nature (IUCN) criteria",
+"guidance": "The roles of the IUCN: • coordinating global data on biodiversity conservation • increasing understanding of the importance of biodiversity • deploying nature-based solutions to global challenges in climate, food and sustainable development. Students should have knowledge of the criteria used by the IUCN to identify the species that should be prioritized for conservation. These are developed further elsewhere in the specification: • red list categories for threatened species • classification of habitats, threats and required actions • evolutionary uniqueness • endemic species • keystone species • flagship species • threats to survival • population dispersal.",
+"level": null,
+"points": null,
+"page": 14,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.1-03",
+"short": "",
+"text": "Evolutionary uniqueness",
+"guidance": "EDGE species (Evolutionary Distinct and Globally Endangered) are threatened by extinction and diverged from other taxa long ago so they have greater genetic differences.",
+"level": null,
+"points": null,
+"page": 14,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.1-04",
+"short": "",
+"text": "Endemic species",
+"guidance": "Species found within a single area, especially if the population is small.",
+"level": null,
+"points": null,
+"page": 14,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.1-05",
+"short": "",
+"text": "Keystone species",
+"guidance": "Species whose survival is important for the survival of many other species.",
+"level": null,
+"points": null,
+"page": 14,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.2",
+"title": "Legislation/protocols",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conservation-methods",
+"statements": [
+{
+"id": "3.1.2.3.2-01",
+"short": "",
+"text": "",
+"guidance": "How legislation and protocols protect species and habitats by establishing restrictions and management agreements.",
+"level": null,
+"points": null,
+"page": 14,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.2-02",
+"short": "",
+"text": "Protection of habitats and species",
+"guidance": "The key features of the Wildlife and Countryside Act (1981). Students should understand the different ways in which designated areas protect species and habitats by restricting activities and establishing management plans. Designated protected areas in the UK, eg: • Sites of Special Scientific Interest (SSSI) • National Nature Reserve (NNR) • Special Area of Conservation (SAC) • Special Protection Area (SPA) • Natura 2000 sites • Ramsar sites • Marine Nature Reserve (MNR) • Local Nature Reserve (LNR) • Marine Protected Area (MPA) • Marine Conservation Zone (MCZ).",
+"level": null,
+"points": null,
+"page": 15,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.2-03",
+"short": "",
+"text": "Trade Controls",
+"guidance": "How the Convention on International Trade in Endangered Species (CITES) protects selected species: • Appendix I. • Appendix II.",
+"level": null,
+"points": null,
+"page": 15,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.2-04",
+"short": "",
+"text": "Regulation of sustainable exploitation",
+"guidance": "Organisations that aim to exploit living resources sustainably: • International Whaling Commission (IWC) • European Union Common Fisheries Policy (EU CFP) • International Tropical Timber Organisation (ITTO).",
+"level": null,
+"points": null,
+"page": 15,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.3",
+"title": "Captive breeding and release programmes (CBR)",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "conservation-methods",
+"statements": [
+{
+"id": "3.1.2.3.3-01",
+"short": "",
+"text": "Ex-situ conservation is needed when conservation of species in their natural habitat is impossible or insufficient to protect the species.",
+"guidance": "• Criteria for the selection of species for captive breeding programmes. • Difficulties in keeping a captive population. Reasons why keeping species in captivity may be difficult.",
+"level": null,
+"points": null,
+"page": 15,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.3-02",
+"short": "",
+"text": "Methods of increasing breeding success",
+"guidance": "• Provision of essential conditions for breeding. • Group dynamics. • Difficulties in providing required abiotic conditions. • Artificial insemination. • Embryo transfer.",
+"level": null,
+"points": null,
+"page": 16,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+},
+{
+"id": "3.1.2.3.3-03",
+"short": "",
+"text": "Soft and hard release programmes",
+"guidance": "The selection of suitable release sites: Soft release. Hard release. Post-release monitoring.",
+"level": null,
+"points": null,
+"page": 16,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"conservation-methods"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.4",
+"title": "Habitat conservation",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "habitat-conservation",
+"statements": [
+{
+"id": "3.1.2.3.4-01",
+"short": "",
+"text": "In-situ conservation protects communities of species not just individual selected species.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 16,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-02",
+"short": "",
+"text": "Habitat creation",
+"guidance": "New habitats may be created as a consequence of other human activities. New habitats may be created when wildlife conservation is the main aim. • New conservation habitats: wetlands, woodlands. • Habitat restoration – rewilding. Structural features of habitats may affect the success of conservation programmes: • habitat area • habitat shape • age structure • ease of colonization/need for introduction • biological corridors.",
+"level": null,
+"points": null,
+"page": 16,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-03",
+"short": "",
+"text": "Management and conservation of habitats",
+"guidance": "Students should use a range of ecosystems and habitat areas to analyse their similarities and differences, especially the controlling ecological features and how this can inform conservation strategies. The importance of conservation should be related to the threats from human activities.",
+"level": null,
+"points": null,
+"page": 16,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-04",
+"short": "",
+"text": "Temperate broadleaf woodland Features: • regular water supply • summers not very hot • winters not very cold • seasonality. Importance: • high biodiversity • resources • climate control • soil erosion control • recreation. Threats: • deforestation for other land uses • fragmentation of remaining woodland • management change. Conservation efforts: • designated protected areas • legal protection of ancient woodland in the UK • conservation management.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 17,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-05",
+"short": "",
+"text": "Tropical rainforest Features: • warm/hot • high rainfall • high light levels • inter-species relationships • low seasonality. Importance: • high biodiversity • resources • carbon sequestration • hydrological cycle • soil erosion control. Threats: • fuelwood collection • timber for construction and furniture • agricultural expansion • mineral extraction • reservoirs • global climate change • exploitation of individual species. Conservation efforts: • establishment of protected areas • Debt for Nature Swaps • sustainable exploitation.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 17,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-06",
+"short": "",
+"text": "Tropical coral reefs Features: • cnidarians • nutrition systems • high light levels • warm, stable temperatures • low turbidity • constant salinity. Importance: • fisheries • erosion protection • medicinal discoveries • climate control • tourism. Threats: • physical damage caused by human activities • souvenir collection • sedimentation • climate change • pollution • fishing • introduced species. Conservation efforts: • control of damaging activities • establishment of protected areas.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 18,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-07",
+"short": "",
+"text": "Deep-water coral reefs. Features: • cold and dark • slow coral growth. Importance: • research • fisheries. Threats: • trawling • oil and gas exploration • ocean acidification. Conservation efforts: • establishment of protected areas • control of damaging activities.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 19,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-08",
+"short": "",
+"text": "Oceanic islands Features: • isolation • few or no indigenous mammal predators • endemic species. Importance: endemic species. Threats: • species exploitation • introduced species • habitat change/destruction • sea level rise. Conservation efforts: • eradication of introduced species • control of developments and visitors.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 19,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-09",
+"short": "",
+"text": "Mangroves Features: • tropical climates • halophytic trees • low oxygen availability. Importance: • coastal erosion protection • fisheries • timber supplies • trap suspended solids. Threats: • clearance for urban development/ aquaculture • coral reef destruction • pollution • global climate change. Conservation efforts: • reforestation • control of damaging activities • establishment of protected areas.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 19,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+},
+{
+"id": "3.1.2.3.4-10",
+"short": "",
+"text": "Antarctica Features: • very low temperatures • low precipitation • high albedo • high levels of marine nutrients • large variations in ice cover • extreme seasonal changes. Importance: • water store • ice albedo • carbon sequestration • resources • research. Threats: • global climate change • ozone depletion • tourism • overfishing • future mineral exploitation • scientific research. Conservation efforts: • The Antarctic Treaty (1959) • fisheries control • waste management • tourism control.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 20,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.5",
+"title": "The importance of ecological monitoring in conservation planning",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "habitat-conservation",
+"statements": [
+{
+"id": "3.1.2.3.5-01",
+"short": "",
+"text": "It is important to identify the species present and features of their populations in planning conservation strategies.",
+"guidance": "Population dynamics: • size • distribution • survival rate • age structure. (See Research methods (page 85))",
+"level": null,
+"points": null,
+"page": 21,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+}
+]
+},
+{
+"code": "3.1.2.3.6",
+"title": "The development of new technologies for ecological monitoring",
+"paper": 2,
+"option": null,
+"area": "Conservation of biodiversity",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "habitat-conservation",
+"statements": [
+{
+"id": "3.1.2.3.6-01",
+"short": "",
+"text": "New technologies used in ecological research",
+"guidance": "• Satellite/radio tracking. • DNA databases, eDNA. • Image recognition, including software • Acoustic monitoring, sonograms. (See Research methods (page 85))",
+"level": null,
+"points": null,
+"page": 21,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"habitat-conservation"
+]
+}
+]
+},
+{
+"code": "3.1.3.1",
+"title": "How adaptation to the environment affects species’ habitat requirements and influences conservation decision-making",
+"paper": 2,
+"option": null,
+"area": "Life processes in the biosphere and conservation planning",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "life-processes-in-the-biosphere",
+"statements": [
+{
+"id": "3.1.3.1-01",
+"short": "",
+"text": "Abiotic factors: • light • water • nutrients • pH • abiotic habitat provision.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 22,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+},
+{
+"id": "3.1.3.1-02",
+"short": "",
+"text": "Biotic factors: • food • control of predation • pollination • seed dispersal • biotic habitat provision • other inter-species relationships.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 22,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+}
+]
+},
+{
+"code": "3.1.3.2",
+"title": "Terminology to describe the roles of living organisms in their habitats and their interactions with the physical environment",
+"paper": 2,
+"option": null,
+"area": "Life processes in the biosphere and conservation planning",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "life-processes-in-the-biosphere",
+"statements": [
+{
+"id": "3.1.3.2-01",
+"short": "",
+"text": "Ecological terminology",
+"guidance": "• Species. • Taxon. • Ecological niche. • Population. • Community of species. • Ecosystem. • Biome.",
+"level": null,
+"points": null,
+"page": 22,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+}
+]
+},
+{
+"code": "3.1.3.3",
+"title": "The control of ecological succession in conserving plagioclimax habitats",
+"paper": 2,
+"option": null,
+"area": "Life processes in the biosphere and conservation planning",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "life-processes-in-the-biosphere",
+"statements": [
+{
+"id": "3.1.3.3-01",
+"short": "",
+"text": "Ecological succession",
+"guidance": "• Colonisation and pioneer species. • Seres. • The modification of abiotic conditions by new colonisers. • Climax communities. • Deflected succession. • Secondary succession. • Plagioclimax communities.",
+"level": null,
+"points": null,
+"page": 23,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+},
+{
+"id": "3.1.3.3-02",
+"short": "",
+"text": "Methods of maintaining plagioclimax communities: • grazing • mowing • burning • coppicing • pollarding.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 23,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+}
+]
+},
+{
+"code": "3.1.3.4",
+"title": "How population control and the management of desired and undesired species affects the conservation of biodiversity",
+"paper": 2,
+"option": null,
+"area": "Life processes in the biosphere and conservation planning",
+"theme": null,
+"module": 1,
+"aLevelOnly": false,
+"topic": "life-processes-in-the-biosphere",
+"statements": [
+{
+"id": "3.1.3.4-01",
+"short": "",
+"text": "Management of desirable species: • release programmes • habitat management.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 23,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+},
+{
+"id": "3.1.3.4-02",
+"short": "",
+"text": "Control of undesirable species: culling/ eradication.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 23,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+},
+{
+"id": "3.1.3.4-03",
+"short": "",
+"text": "r- and k- selection strategies and how they affect the ease with which species can be over-exploited.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 23,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"life-processes-in-the-biosphere"
+]
+}
+]
+},
+{
+"code": "3.2.1.1",
+"title": "How atmospheric energy processes involving ultra violet (UV), infrared (IR) and visible light in the stratosphere and troposphere affect life-support systems",
+"paper": 1,
+"option": null,
+"area": "The atmosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "atmosphere-and-climate-change",
+"statements": [
+{
+"id": "3.2.1.1-01",
+"short": "",
+"text": "Origins and roles of UV and IR in the atmosphere.",
+"guidance": "• Insolation. • Emissions from the earth. • Thermal stratification. • Chemical processes.",
+"level": null,
+"points": null,
+"page": 29,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.1-02",
+"short": "",
+"text": "How different wavelengths of electromagnetic light behave in the atmosphere: • transmission • absorption • conversion to heat • conversion to chemical energy • reflection.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 29,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+}
+]
+},
+{
+"code": "3.2.1.2",
+"title": "Global climate change: how interconnected natural systems cause environmental change",
+"paper": 1,
+"option": null,
+"area": "The atmosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "atmosphere-and-climate-change",
+"statements": [
+{
+"id": "3.2.1.2-01",
+"short": "",
+"text": "Greenhouse gases",
+"guidance": "The anthropogenic sources of greenhouse gases, residence times and relative effects: CO2, CH4, NOx, tropospheric ozone, CFCs.",
+"level": null,
+"points": null,
+"page": 29,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-02",
+"short": "",
+"text": "Changes in oceans",
+"guidance": "Changes in thermohaline circulation in the North Atlantic. Changes in ocean, wind and current patterns: El Niño. Sea level rise.",
+"level": null,
+"points": null,
+"page": 29,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-03",
+"short": "",
+"text": "Changes in the cryosphere",
+"guidance": "Reduced snow cover – amount and duration. Glaciers: changes in extent and speed of movement. Land ice caps and ice sheets: changes in thickness and movements. Ice shelves: changes in the break-up of ice shelves and the impact on land ice movements. Sea ice: changes in thickness and area of sea ice cover.",
+"level": null,
+"points": null,
+"page": 30,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-04",
+"short": "",
+"text": "Changes in climate processes",
+"guidance": "Precipitation changes: • amount, duration, timing and location • changes in proportions of rain and snow. Wind pattern changes: direction, velocity.",
+"level": null,
+"points": null,
+"page": 30,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-05",
+"short": "",
+"text": "Difficulties monitoring and predicting climate change",
+"guidance": "Students should understand the limitations in the available data when attempting to predict future natural and anthropogenic climate change. They should be able to evaluate the reliability of existing information and discuss the methods that are used to fill gaps in current knowledge including remote sensing. Students should be able to discuss the importance of accurate, representative data in climate modelling. Uncertainty of ecological impacts of climate change: • changes in species survival caused by changes in abiotic factors • changes in species survival caused by changes in biotic factors • changes in species distribution • population fragmentation. Why there is uncertainty over the use of some data in drawing conclusions. • Lack of historical data: atmospheric composition, temperature, weather patterns. • Limited reliability of proxy data. • Lack of understanding of natural processes that control weather, ocean currents and their interconnections. • How understanding is improved by climate modelling. • Natural changes and fluctuations that mask changes caused by anthropogenic actions. • Time delay between cause and effect.",
+"level": null,
+"points": null,
+"page": 30,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-06",
+"short": "",
+"text": "Feedback mechanisms and tipping points",
+"guidance": "Impact of negative feedback mechanisms caused by: • increased low-level cloud • increased photosynthesis. Impact of positive feedback mechanisms: • melting permafrost • ocean acidification • reduced albedo • melting methane hydrate • increased forest and peat fires • increased cirrus clouds • more rapid decomposition of dead organic matter in soil. The role of tipping points in climate change.",
+"level": null,
+"points": null,
+"page": 31,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+},
+{
+"id": "3.2.1.2-07",
+"short": "",
+"text": "Carbon footprints and sustainable development",
+"guidance": "Students should compare the per capita carbon emissions and carbon footprints for different countries to evaluate different strategies to achieve sustainable development. How the control of greenhouse gases may help achieve sustainable lifestyles.",
+"level": null,
+"points": null,
+"page": 31,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmosphere-and-climate-change"
+]
+}
+]
+},
+{
+"code": "3.2.1.3",
+"title": "Ozone depletion",
+"paper": 1,
+"option": null,
+"area": "The atmosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "ozone-depletion",
+"statements": [
+{
+"id": "3.2.1.3-01",
+"short": "",
+"text": "The study of ozone depletion should be used as an example of an environmental issue where all the stages of scientific investigation are present.",
+"guidance": "• Identification of an environmental issue. • Formulation of a hypothesis. • Collection, analysis and evaluation of data. • Proposal for solutions. • Enactment of solutions.",
+"level": null,
+"points": null,
+"page": 31,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+},
+{
+"id": "3.2.1.3-02",
+"short": "",
+"text": "Rowland-Molina hypothesis",
+"guidance": "The properties of chlorofluorocarbons (CFCs) that lead to stratospheric ozone depletion. • Persistence of CFCs. • Dissociation by UV. • Reactions of chlorine with ozone. Effects of ozone depletion. Why increased UV(B) reaching the Earth’s surface may cause problems: • human health • damage to plants • damage to marine organisms.",
+"level": null,
+"points": null,
+"page": 32,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+},
+{
+"id": "3.2.1.3-03",
+"short": "",
+"text": "Collection, analysis and interpretation of data, an evaluation of data collection methods available and the reliability of data produced",
+"guidance": "The collection of data on ozone depletion: • ground-based data collection • aerial/satellite surveys • variability of results: spatial, temporal, altitude.",
+"level": null,
+"points": null,
+"page": 32,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+},
+{
+"id": "3.2.1.3-04",
+"short": "",
+"text": "Why ozone depletion has been greatest over Antarctica",
+"guidance": "Unusual atmospheric conditions over Antarctica: • very low temperatures • ice crystals • stratospheric clouds • polar vortex winds.",
+"level": null,
+"points": null,
+"page": 32,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+},
+{
+"id": "3.2.1.3-05",
+"short": "",
+"text": "The restoration of the ozone layer",
+"guidance": "Main features of the Montreal Protocol (on Substances that Deplete the Ozone Layer) (1987): • use of alternative processes • use of alternative materials • collection and disposal of CFCs and other ozone-depleting substances (ODSs).",
+"level": null,
+"points": null,
+"page": 32,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+},
+{
+"id": "3.2.1.3-06",
+"short": "",
+"text": "Evaluation of the effectiveness of the methods used to restore the ozone layer compared with the effectiveness of tackling other atmospheric pollution problems",
+"guidance": "An analysis of the evidence for changes in area of ozone depletion, ozone concentrations and UV levels. A comparison with the effectiveness of tackling climate change.",
+"level": null,
+"points": null,
+"page": 32,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"ozone-depletion"
+]
+}
+]
+},
+{
+"code": "3.2.2.1",
+"title": "The impact of unsustainable exploitation",
+"paper": 1,
+"option": null,
+"area": "The hydrosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "the-hydrosphere",
+"statements": [
+{
+"id": "3.2.2.1-01",
+"short": "",
+"text": "Students should understand that the natural hydrological cycle is in a state of dynamic equilibrium. Human activities that alter the rates of processes in the hydrological cycle can lead to changes in residence times and quantities in the reservoirs of the cycle.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+},
+{
+"id": "3.2.2.1-02",
+"short": "",
+"text": "Students should be able to use the technical terminology related to the hydrological cycle to discuss anthropogenic changes and strategies that may allow sustainable exploitation.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+},
+{
+"id": "3.2.2.1-03",
+"short": "",
+"text": "Students should be able to explain how human activities change processes in the hydrological cycle.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+},
+{
+"id": "3.2.2.1-04",
+"short": "",
+"text": "Students should be able to explain the consequences of changes in the hydrological cycle.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+}
+]
+},
+{
+"code": "3.2.2.2",
+"title": "Analysis and evaluation of strategies for sustainable management",
+"paper": 1,
+"option": null,
+"area": "The hydrosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "the-hydrosphere",
+"statements": [
+{
+"id": "3.2.2.2-01",
+"short": "",
+"text": "Students should use examples of water resources that have been exploited unsustainably.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+}
+]
+},
+{
+"code": "3.2.2.3",
+"title": "Ocean currents: the importance of thermohaline circulation in distributing heat and regulating climate",
+"paper": 1,
+"option": null,
+"area": "The hydrosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "the-hydrosphere",
+"statements": [
+{
+"id": "3.2.2.3-01",
+"short": "",
+"text": "Students should discuss the impacts of changes in thermohaline circulation on the climate of countries around the North Atlantic, including the UK.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 34,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+}
+]
+},
+{
+"code": "3.2.2.4",
+"title": "Increasing sustainability by treating contaminated water",
+"paper": 1,
+"option": null,
+"area": "The hydrosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "the-hydrosphere",
+"statements": [
+{
+"id": "3.2.2.4-01",
+"short": "",
+"text": "The methods used to remove the following contaminants: • litter • suspended solids • some metals and odours • organic pollutants • salt • pathogens.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 35,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+}
+]
+},
+{
+"code": "3.2.2.5",
+"title": "Increasing sustainability by economical use and the exploitation of new sources",
+"paper": 1,
+"option": null,
+"area": "The hydrosphere",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "the-hydrosphere",
+"statements": [
+{
+"id": "3.2.2.5-01",
+"short": "",
+"text": "Management of water resources: • metering • low water-use appliances • greywater use. Exploitation of new sources: • rainwater catchment • new reservoirs/estuary barrages • unexploited aquifers • inter-basin transfers.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 35,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"the-hydrosphere"
+]
+}
+]
+},
+{
+"code": "3.2.3.1",
+"title": "Minerals extracted from the lithosphere",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.1-01",
+"short": "",
+"text": "The mineral resources extracted from the lithosphere are non-renewable as they are reformed too slowly to be replaced within timescales that would allow human use. Long-term use relies on an understanding of the scientific methods that will increase supplies, extend use and find alternatives for those in restricted supplies.",
+"guidance": "Students should understand the importance of resources extracted from the lithosphere on society. • Metals and metal ores. • Industrial minerals. • Construction materials.",
+"level": null,
+"points": null,
+"page": 36,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.2",
+"title": "Geological processes that produced localised concentrations of recoverable mineral deposits",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.2-01",
+"short": "",
+"text": "Geological processes",
+"guidance": "• Hydrothermal deposition. • Metamorphic processes. • Proterozoic marine sediments. • Physical sediments. • Biological sediments.",
+"level": null,
+"points": null,
+"page": 37,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.3",
+"title": "Reserves and resource",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.3-01",
+"short": "",
+"text": "The reserves include the amount of material that can be exploited using existing technology under current economic conditions.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 37,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+},
+{
+"id": "3.2.3.3-02",
+"short": "",
+"text": "The resource includes all the material that could be exploited technically and economically now or in the future.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 37,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+},
+{
+"id": "3.2.3.3-03",
+"short": "",
+"text": "Lasky’s principle",
+"guidance": "As the linear purity of a deposit decreases, there is a logarithmic increase in the amount of the material that is included. The ability to exploit low-grade deposits results in a large increase in the reserves.",
+"level": null,
+"points": null,
+"page": 37,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.4",
+"title": "How a range of exploratory techniques work",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.4-01",
+"short": "",
+"text": "Exploratory techniques",
+"guidance": "• Satellite imagery. • Seismic surveys. • Gravimetry. • Magnetometry. • Resistivity. • Trial drilling.",
+"level": null,
+"points": null,
+"page": 37,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.5",
+"title": "Factors affecting mine viability",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.5-01",
+"short": "",
+"text": "For a mining operation to be viable, a wide range of geological and economic criteria must be met.",
+"guidance": "• Ore purity and cut-off ore grade. • Chemical form. • Associated geology: overburden, hydrology. • Economics: cut-off ore grade and mining costs.",
+"level": null,
+"points": null,
+"page": 38,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.6",
+"title": "Control of the environmental impacts of mineral exploitation",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.6-01",
+"short": "",
+"text": "All mining activities impact on the environment, but good site management and post-mining restoration can minimise problems.",
+"guidance": "• Turbid drainage water. • Spoil. • Leachate neutralisation. • Site management. • Site restoration.",
+"level": null,
+"points": null,
+"page": 38,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.3.7",
+"title": "Strategies to secure future mineral supplies",
+"paper": 1,
+"option": null,
+"area": "Mineral resources",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "mineral-resources",
+"statements": [
+{
+"id": "3.2.3.7-01",
+"short": "",
+"text": "As high-grade deposits become depleted, it is important to develop new technologies to find and extract new deposits, including low-grade and less accessible deposits. Manufactured products should be designed to minimise the amount of material needed and extend the lifetime of material use.",
+"guidance": "• Improvements in exploratory techniques including remote sensing. • Bioleaching with acidophilic bacteria. • Phytomining. • Cradle to Cradle design.",
+"level": null,
+"points": null,
+"page": 38,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+},
+{
+"id": "3.2.3.7-02",
+"short": "",
+"text": "The advantages of recycling.",
+"guidance": "• Conservation of mineral resources. • Reduced energy use (of mineral extraction). • Reduced mineral extraction/processing impacts. • Reduced waste disposal impacts.",
+"level": null,
+"points": null,
+"page": 38,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+},
+{
+"id": "3.2.3.7-03",
+"short": "",
+"text": "Difficulties with recycling schemes:",
+"guidance": "• Identification of materials. • Separation of mixed materials. • Reduction in quality. • Increased transport costs/impacts. • Collection difficulties. • Lack of consumer cooperation.",
+"level": null,
+"points": null,
+"page": 39,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"mineral-resources"
+]
+}
+]
+},
+{
+"code": "3.2.4.1",
+"title": "The importance of biogeochemical cycles for living organisms",
+"paper": 1,
+"option": null,
+"area": "Biogeochemical cycles",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "biogeochemical-cycles",
+"statements": [
+{
+"id": "3.2.4.1-01",
+"short": "",
+"text": "Many elements have low availability to living organisms. Biogeochemical cycles involve inter-linked processes that allow materials to be recycled and repeatedly re-used.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 40,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+}
+]
+},
+{
+"code": "3.2.4.2",
+"title": "The carbon cycle including human influences",
+"paper": 1,
+"option": null,
+"area": "Biogeochemical cycles",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "biogeochemical-cycles",
+"statements": [
+{
+"id": "3.2.4.2-01",
+"short": "",
+"text": "The processes in the carbon cycle that are affected by human activities",
+"guidance": "• Photosynthesis. • Aerobic respiration. • Anaerobic respiration. • Combustion. • CO2 dissolving in the sea/exsolving from the sea. • Biomass movements. • Changes in carbon reservoirs. • Increased atmospheric concentration of CO2. • Less soil dead organic matter. • Increased concentrations of dissolved CO2, carbonic acid, hydrogen carbonate ions. • Increased atmospheric concentration of methane. • Reduced amount of carbon in plant biomass. • Reduced amount of carbon in fossil fuels.",
+"level": null,
+"points": null,
+"page": 40,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+},
+{
+"id": "3.2.4.2-02",
+"short": "",
+"text": "Sustainable management of the carbon cycle: methods of counteracting human activities that alter the natural equilibria of the carbon cycle",
+"guidance": "• Alternatives to fossil fuel use. • Carbon sequestration. • Carbon Capture and Storage (CCS). • Matching afforestation to deforestation. • Increasing soil organic matter. • Conservation of peat bogs.",
+"level": null,
+"points": null,
+"page": 40,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+}
+]
+},
+{
+"code": "3.2.4.3",
+"title": "The nitrogen cycle including human influences",
+"paper": 1,
+"option": null,
+"area": "Biogeochemical cycles",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "biogeochemical-cycles",
+"statements": [
+{
+"id": "3.2.4.3-01",
+"short": "",
+"text": "The processes in the nitrogen cycle that are affected by human activities",
+"guidance": "• The Haber Process fixing nitrogen in ammonia, mainly to produce agricultural fertilisers. • Land drainage increases nitrogen fixation and reduces denitrification. • The growth of legume crops increases nitrogen fixation in plant proteins. • Sewage disposal increases nitrate movements to rivers and the sea, together with phosphates, causes eutrophication. • Combustion processes cause nitrogen and oxygen to react, producing oxides of nitrogen. • Decomposition and ammonification affected by organic waste disposal policies.",
+"level": null,
+"points": null,
+"page": 41,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+},
+{
+"id": "3.2.4.3-02",
+"short": "",
+"text": "Consequences of changes in nitrogen reservoirs: • eutrophication • global climate change • NOx toxicity • photochemical smogs.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 41,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+},
+{
+"id": "3.2.4.3-03",
+"short": "",
+"text": "Sustainable management of the nitrogen cycle and methods of counteracting human activities that alter the natural equilibria of the nitrogen cycle",
+"guidance": "Methods of counteracting anthropogenic nitrogen movements: • reduced combustion processes • use of natural nitrogen fixation processes instead of the Haber process • management of biological wastes • methods of reducing soil nitrate leaching.",
+"level": null,
+"points": null,
+"page": 41,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+}
+]
+},
+{
+"code": "3.2.4.4",
+"title": "The phosphorus cycle including human influences",
+"paper": 1,
+"option": null,
+"area": "Biogeochemical cycles",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "biogeochemical-cycles",
+"statements": [
+{
+"id": "3.2.4.4-01",
+"short": "",
+"text": "The processes in the phosphorus cycle that are affected by human activities",
+"guidance": "Phosphorus compounds are mobilised in more soluble forms for use in agricultural fertilisers. Eutrophication is caused by nutrient enrichment of water bodies, combined with the effect of nitrates.",
+"level": null,
+"points": null,
+"page": 41,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+},
+{
+"id": "3.2.4.4-02",
+"short": "",
+"text": "Sustainable management of the phosphorus cycle and methods of counteracting human activities that alter the natural equilibria of the phosphorus cycle",
+"guidance": "The lack of abundant reservoirs of phosphates in the atmosphere or hydrosphere is often the limiting factor on biological productivity: • the use of biological wastes as fertilisers • breeding of crops that absorb phosphates more efficiently • providing suitable conditions for soil mycorrhizal fungi increases phosphate uptake combustion processes.",
+"level": null,
+"points": null,
+"page": 42,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"biogeochemical-cycles"
+]
+}
+]
+},
+{
+"code": "3.2.5.1",
+"title": "How human activities affect soil fertility",
+"paper": 1,
+"option": null,
+"area": "Soils",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "soils",
+"statements": [
+{
+"id": "3.2.5.1-01",
+"short": "",
+"text": "Activities that control soil conditions and affect fertility: • aeration of soil by ploughing and drainage • addition of soil nutrients • irrigation • soil compaction, increasing bulk density • pH control.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 42,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+}
+]
+},
+{
+"code": "3.2.5.2",
+"title": "Causes of soil degradation and erosion",
+"paper": 1,
+"option": null,
+"area": "Soils",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "soils",
+"statements": [
+{
+"id": "3.2.5.2-01",
+"short": "",
+"text": "Types of soil erosion: • rain splash • wind blow • surface runoff.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 43,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+},
+{
+"id": "3.2.5.2-02",
+"short": "",
+"text": "Natural features that reduce erosion: • vegetation • soil organic matter • high infiltration rate.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 43,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+},
+{
+"id": "3.2.5.2-03",
+"short": "",
+"text": "The Universal Soil Loss Equation (USLE) can be used to estimate erosion rates.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 43,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+},
+{
+"id": "3.2.5.2-04",
+"short": "",
+"text": "Human activities that cause soil erosion and degradation: • ploughing vulnerable soils • vegetation removal • overgrazing • reducing soil organic matter • reducing soil biota • cultivating steep slopes • soil compaction by machinery or trampling.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 43,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+},
+{
+"id": "3.2.5.2-05",
+"short": "",
+"text": "The environmental impacts of soil erosion: • reduced productivity • sedimentation in rivers and reservoirs • downstream flooding • coastal sedimentation • increased atmospheric particulates • desertification • landslides.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 43,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+}
+]
+},
+{
+"code": "3.2.5.3",
+"title": "Soil management strategies to increase sustainability",
+"paper": 1,
+"option": null,
+"area": "Soils",
+"theme": null,
+"module": 2,
+"aLevelOnly": false,
+"topic": "soils",
+"statements": [
+{
+"id": "3.2.5.3-01",
+"short": "",
+"text": "Methods that can be used to reduce soil erosion: • long-term crops • contour ploughing • tied ridging • terracing • windbreaks • multicropping • strip cropping • mulching • increasing soil organic matter.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 44,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"soils"
+]
+}
+]
+},
+{
+"code": "3.3.1",
+"title": "The importance of energy supplies in the development of society",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-resources-and-sustainability",
+"statements": [
+{
+"id": "3.3.1-01",
+"short": "",
+"text": "Agriculture",
+"guidance": "How increased mechanization has increased productivity.",
+"level": null,
+"points": null,
+"page": 45,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.1-02",
+"short": "",
+"text": "Fishing",
+"guidance": "How energy has increased catches and made processing easier.",
+"level": null,
+"points": null,
+"page": 45,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.1-03",
+"short": "",
+"text": "Industry",
+"guidance": "How energy allows the extraction and processing of materials. The role of energy in service industries.",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.1-04",
+"short": "",
+"text": "Water supplies",
+"guidance": "How energy is used to treat water for use and clean waste water from industrial or domestic use.",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.1-05",
+"short": "",
+"text": "Transport",
+"guidance": "The use of energy in transport systems.",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.1-06",
+"short": "",
+"text": "Domestic life",
+"guidance": "The role of energy in improved material living standards.",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+}
+]
+},
+{
+"code": "3.3.2",
+"title": "The impact of the features of energy resources on their use",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-resources-and-sustainability",
+"statements": [
+{
+"id": "3.3.2-01",
+"short": "",
+"text": "Features of energy resources",
+"guidance": "• Abundance. • Energy density. • Locational constraints. • Intermittency. • Need for energy conversions to produce point- of-use energy. Quantitative data should be used to compare different energy resources and evaluate the potential for energy resources in the future.",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+}
+]
+},
+{
+"code": "3.3.3",
+"title": "The sustainability of current energy resource exploitation",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-resources-and-sustainability",
+"statements": [
+{
+"id": "3.3.3-01",
+"short": "",
+"text": "Impact of resource exploitation before the use of the energy: • fuel extraction: coal mines, oil extraction • fuel processing: coal, crude oil • equipment manufacture: all energy resources • site development/operation: all energy resources • transport: combustible fuels • embodied energy in equipment: all energy resources.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 46,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.3-02",
+"short": "",
+"text": "Impact as a consequence of use.",
+"guidance": "Pollution: • atmospheric pollution caused by fossil fuels • oil pollution • radioactive waste • noise pollution: wind power • thermal pollution: steam turbine power stations.",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.3-03",
+"short": "",
+"text": "Habitat damage",
+"guidance": "• Fuel extraction. • Power station and equipment location. • Ecological impacts of tidal power schemes. • Ecological impacts of HEP schemes. • Pipelines and cables.",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+},
+{
+"id": "3.3.3-04",
+"short": "",
+"text": "Depletion of reserves.",
+"guidance": "Non-renewable energy resources.",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-resources-and-sustainability"
+]
+}
+]
+},
+{
+"code": "3.3.4.1",
+"title": "Evaluation of improved extraction/harnessing/processing technologies related to a range of energy technologies",
+"paper": 1,
+"option": null,
+"area": "Strategies to secure future energy supplies",
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-technologies",
+"statements": [
+{
+"id": "3.3.4.1-01",
+"short": "",
+"text": "Fossil fuels",
+"guidance": "• Secondary/tertiary recovery of oil, directional drilling. • Oil shales/Tar sands. • Carbon Capture and Storage (CCS). • Hydraulic fracturing. • Coal gasification. • Coal liquifaction. • Methane hydrates from marine sediments.",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-02",
+"short": "",
+"text": "Nuclear power: fission and fusion.",
+"guidance": "Fission: • improved uranium extraction techniques • plutonium reactors • thorium reactors.",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-03",
+"short": "",
+"text": "Fusion as a research technology: • toroidal reactors • laser fusion.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 47,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-04",
+"short": "",
+"text": "Renewable energy technologies.",
+"guidance": "Solar power: • photothermal solar power • heat pumps • photovoltaic solar power • multi-junction photovoltaic cells • anti-reflective surfaces • Concentrating Solar Power (CSP).",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-05",
+"short": "",
+"text": "HEP: • low head turbines • helical turbines.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-06",
+"short": "",
+"text": "Wind power: • new Horizontal Axis Wind Turbines (HAWT) • new Vertical Axis Wind Turbines (VAWT) • wind-assisted ships.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-07",
+"short": "",
+"text": "Wave power: new developments in wave power technology.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-08",
+"short": "",
+"text": "Biofuels: • biofuel crops • hydrogen from algae • biofuels from microorganisms.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-09",
+"short": "",
+"text": "Geothermal power: • low temperature fluids • district heating systems.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-10",
+"short": "",
+"text": "Tidal power: • tidal barrages • tidal lagoons • in-stream turbines.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-11",
+"short": "",
+"text": "Fluctuations in energy supply and demand, and new energy storage systems.",
+"guidance": "Students should evaluate the importance of energy storage in the use of the available energy resources and energy forms. The development of new energy storage methods will allow more effective peak-shaving to match fluctuating supplies to fluctuating demand.",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-12",
+"short": "",
+"text": "Causes of fluctuations in energy supply.",
+"guidance": "The use of intermittent energy resources.",
+"level": null,
+"points": null,
+"page": 48,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-13",
+"short": "",
+"text": "Causes of fluctuations in energy demand.",
+"guidance": "• Weather-related fluctuations. • Seasonal fluctuations. • Weekday/weekend fluctuations. • 24 hr work fluctuations. • Short-term fluctuations: mealtimes/TV ‘pickup’.",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+},
+{
+"id": "3.3.4.1-14",
+"short": "",
+"text": "Developments in energy storage technologies.",
+"guidance": "• Peak shaving using Pumped-Storage HEP. • Rechargeable batteries. • Fuel cells. • Compressed gas. • Thermal storage. • Vehicle to grid systems (V2G). • Power to gas systems (P2G). • The ‘hydrogen economy’.",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-technologies"
+]
+}
+]
+},
+{
+"code": "3.3.4.2",
+"title": "New energy conservation technologies",
+"paper": 1,
+"option": null,
+"area": "Strategies to secure future energy supplies",
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-conservation",
+"statements": [
+{
+"id": "3.3.4.2-01",
+"short": "",
+"text": "Improvements in the efficiency of energy use enable the same activities to be carried out with less energy.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+}
+]
+},
+{
+"code": "3.3.4.2.1",
+"title": "Transport energy conservation",
+"paper": 1,
+"option": null,
+"area": "Strategies to secure future energy supplies",
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-conservation",
+"statements": [
+{
+"id": "3.3.4.2.1-01",
+"short": "",
+"text": "Vehicle design for use",
+"guidance": "• Aerodynamics/hydrodynamics. • Low mass. • Tyre/wheel design. • Kinetic Energy Recovery System (KERS)/ regenerative braking. • Use of low embodied energy materials. • Bulk transport systems.",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.1-02",
+"short": "",
+"text": "Transport infrastructure and management systems",
+"guidance": "• Integrated transport systems road/rail/cycle. • Active Traffic Management (ATM)/'Smart motorways'.",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.1-03",
+"short": "",
+"text": "Vehicle design for end of life",
+"guidance": "• Use of recyclable materials. • Easier component identification. • Easy dismantling/material separation.",
+"level": null,
+"points": null,
+"page": 49,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+}
+]
+},
+{
+"code": "3.3.4.2.2",
+"title": "Building energy conservation",
+"paper": 1,
+"option": null,
+"area": "Strategies to secure future energy supplies",
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-conservation",
+"statements": [
+{
+"id": "3.3.4.2.2-01",
+"short": "",
+"text": "Building design",
+"guidance": "• Orientation/features for passive solar gains. • Low surface area: volume ratio. • High thermal mass materials.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.2-02",
+"short": "",
+"text": "Use of materials/construction methods with low embodied energy",
+"guidance": "• Low embodied energy materials, eg rammed earth, limecrete, straw. • Earth-sheltered buildings.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.2-03",
+"short": "",
+"text": "Use of materials with low thermal conductivity/transmittance",
+"guidance": "• Double/triple glazing. • Low emissivity glass. • Vacuum/inert gas double/triple glazing. • Wall/floor/roof insulation.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.2-04",
+"short": "",
+"text": "Energy management technologies",
+"guidance": "• Occupancy sensors. • Improved insulation. • Automatic/solar ventilation. • Heat exchangers.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.2-05",
+"short": "",
+"text": "Low energy appliances",
+"guidance": "• Lighting: CFL, LED. • ‘Low-energy’ white goods.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+}
+]
+},
+{
+"code": "3.3.4.2.3",
+"title": "Industrial energy conservation",
+"paper": 1,
+"option": null,
+"area": "Strategies to secure future energy supplies",
+"theme": null,
+"module": 3,
+"aLevelOnly": false,
+"topic": "energy-conservation",
+"statements": [
+{
+"id": "3.3.4.2.3-01",
+"short": "",
+"text": "Heat management",
+"guidance": "• Bulk storage of hot fluids. • Use of heat exchangers. • Combined Heat and Power (CHP) systems.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+},
+{
+"id": "3.3.4.2.3-02",
+"short": "",
+"text": "Electricity infrastructure management",
+"guidance": "• High voltage grid. • Peak shaving/pumped storage HEP. • The use of ICT to co-ordinate data on electricity supply and demand and plan supply changes. • Locational factors affecting the development of new generating infrastructure.",
+"level": null,
+"points": null,
+"page": 50,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"energy-conservation"
+]
+}
+]
+},
+{
+"code": "3.4.1",
+"title": "The properties of pollutants",
+"paper": 1,
+"option": null,
+"area": null,
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "properties-of-pollutants",
+"statements": [
+{
+"id": "3.4.1-01",
+"short": "",
+"text": "Pollutant properties",
+"guidance": "• State of matter: solid/liquid/gas. • Energy form. • Density. • Persistence/degradability. • Toxicity. • Reactivity. • Adsorption. • Solubility in lipids/water. • Bioaccumulation. • Bomagnification. • Synergism. • Mutagenic action. • Carcinogenic action. • Teratogenic action.",
+"level": null,
+"points": null,
+"page": 53,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+}
+]
+},
+{
+"code": "3.4.2.1",
+"title": "Factors that affect dispersal",
+"paper": 1,
+"option": null,
+"area": "How environmental features affect the severity of pollution",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "properties-of-pollutants",
+"statements": [
+{
+"id": "3.4.2.1-01",
+"short": "",
+"text": "Air currents: • velocity • direction.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 53,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.1-02",
+"short": "",
+"text": "Water currents: • velocity • direction.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 53,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+}
+]
+},
+{
+"code": "3.4.2.2",
+"title": "Environmental factors that affect rates of degradation",
+"paper": 1,
+"option": null,
+"area": "How environmental features affect the severity of pollution",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "properties-of-pollutants",
+"statements": [
+{
+"id": "3.4.2.2-01",
+"short": "",
+"text": "Temperature",
+"guidance": "The rate of decomposition of sewage.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-02",
+"short": "",
+"text": "Light",
+"guidance": "The role of light in: • photochemical smogs • degradation of pesticides.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-03",
+"short": "",
+"text": "Oxygen",
+"guidance": "Aerobic decay of organic wastes.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-04",
+"short": "",
+"text": "pH",
+"guidance": "Neutralisation of acids by basic/alkaline rocks.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-05",
+"short": "",
+"text": "The presence of other chemicals",
+"guidance": "The role of oxidation by ozone in producing secondary pollutants.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-06",
+"short": "",
+"text": "Temperature inversions",
+"guidance": "The role of temperature inversions in the dispersal of atmospheric pollutants.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.2.2-07",
+"short": "",
+"text": "The presence of adsorbent materials",
+"guidance": "The adsorption of toxic metal ions on clay particles.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+}
+]
+},
+{
+"code": "3.4.3.1",
+"title": "Principles of control",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "properties-of-pollutants",
+"statements": [
+{
+"id": "3.4.3.1-01",
+"short": "",
+"text": "Critical Pathway Analysis: to predict pollutant mobility and inform monitoring programmes",
+"guidance": "Application to monitoring discharges of pollutants such as radioactive materials, heavy metals and persistent organic pollutants eg chlorinated organic compounds.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.3.1-02",
+"short": "",
+"text": "Critical Group Monitoring: to identify members of the public most at risk",
+"guidance": "Application to monitoring the health risks caused by pollutants such as radioactive discharges and heavy metals.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.3.1-03",
+"short": "",
+"text": "Emission location",
+"guidance": "Increased concentrations in valleys, enclosed water bodies.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+},
+{
+"id": "3.4.3.1-04",
+"short": "",
+"text": "Emission timing",
+"guidance": "Restriction of activities during temperature inversions.",
+"level": null,
+"points": null,
+"page": 54,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.1",
+"title": "Smoke/PM10 (Particulate matter less than 10 microns in diameter)",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "atmospheric-pollution",
+"statements": [
+{
+"id": "3.4.3.2.1-01",
+"short": "",
+"text": "Sources",
+"guidance": "Incomplete combustion of coal, diesel, wood, crop waste.",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.1-02",
+"short": "",
+"text": "Impacts",
+"guidance": "• Respiratory disease. • Increased albedo of atmosphere. • Smoke smogs during temperature inversions.",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.1-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Legislation: Clean Air Act (1956). • Coal treatment: heating to remove tar. • Electrostatic precipitators. • Cyclone separators. • Bag filters.",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.2",
+"title": "Acid precipitation",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "atmospheric-pollution",
+"statements": [
+{
+"id": "3.4.3.2.2-01",
+"short": "",
+"text": "Primary and secondary pollutants: • SOx: sulfurous and sulfuric acids • NOx: nitric acid • ozone involved in production of secondary pollutants.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.2-02",
+"short": "",
+"text": "Sources",
+"guidance": "• Combustion of fossil fuels. • Smelting of sulphide ores.",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.2-03",
+"short": "",
+"text": "Impacts",
+"guidance": "• Non-living objects: damage to limestone buildings, metal structures. • Living organisms. • Direct effects of acids. • Damage to proteins. • Damage to exoskeletons. • Respiratory effects in humans.",
+"level": null,
+"points": null,
+"page": 55,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.2-04",
+"short": "",
+"text": "Controls",
+"guidance": "SOx: • fuel desulfurization • Flue Gas Desulfurization (FGD) wet FGD and dry FGD. NOx: • catalytic converters • urea sprays. Ozone: control of NOx reduces ozone formation.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.3",
+"title": "Oxides of nitrogen (NOx)",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "atmospheric-pollution",
+"statements": [
+{
+"id": "3.4.3.2.3-01",
+"short": "",
+"text": "Sources",
+"guidance": "• Reaction of nitrogen and oxygen in hot combustion processes. • NOx release due to fertiliser use.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.3-02",
+"short": "",
+"text": "Effects",
+"guidance": "• Photochemical smogs. • Global climate change.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.3-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Catalytic converters. • Urea sprays. • Control of fertilizer use.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.4",
+"title": "Hydrocarbons",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "atmospheric-pollution",
+"statements": [
+{
+"id": "3.4.3.2.4-01",
+"short": "",
+"text": "Sources",
+"guidance": "• Unburnt hydrocarbon fuels. • Gaseous emissions from fossil fuel exploitation. • Solvents. • Aerosol propellants.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.4-02",
+"short": "",
+"text": "Effects",
+"guidance": "• Greenhouse gases. • Photochemical smogs.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.4-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Catalytic converters. • Improved combustion efficiency. • Vapour collection and incineration. • Activated carbon filters.",
+"level": null,
+"points": null,
+"page": 56,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.5",
+"title": "Carbon monoxide",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "atmospheric-pollution",
+"statements": [
+{
+"id": "3.4.3.2.5-01",
+"short": "",
+"text": "Source",
+"guidance": "Incomplete combustion of hydrocarbons.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.5-02",
+"short": "",
+"text": "Effect",
+"guidance": "If inhaled reduced carriage of oxygen by haemoglobin.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+},
+{
+"id": "3.4.3.2.5-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Catalytic converters. • Improved combustion efficiency.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"atmospheric-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.6",
+"title": "Thermal pollution",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "water-pollution",
+"statements": [
+{
+"id": "3.4.3.2.6-01",
+"short": "",
+"text": "Scientific principles",
+"guidance": "The relationship between temperature and maximum dissolved oxygen level.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.6-02",
+"short": "",
+"text": "Source",
+"guidance": "Hot water from steam turbine power station condensers.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.6-03",
+"short": "",
+"text": "Effect",
+"guidance": "Deoxygenation of water.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.6-04",
+"short": "",
+"text": "Control",
+"guidance": "Temperature reduction using cooling towers.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.7",
+"title": "Oil pollution",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "water-pollution",
+"statements": [
+{
+"id": "3.4.3.2.7-01",
+"short": "",
+"text": "Sources",
+"guidance": "• Waste lubricating oil. • Ship tank washing. • Ship tanker accidents. • Other ship accidents. • Oil refinery spills. • Pipeline leaks. • Leakage during drilling.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.7-02",
+"short": "",
+"text": "Effects",
+"guidance": "• Toxicity. • Asphyxiation. • Loss of insulation. • Less time to feed young. • Foodchain effects.",
+"level": null,
+"points": null,
+"page": 57,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.7-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Recycling of waste oil. • Reduced leakage: equipment maintenance. • Bund walls. • Ship tanker design. • Double hulls. • Twin engines/rudders. • Ship tanker operation: • inert gas oil tank systems • recirculation of washing water • improved navigation systems eg GPS • offshore shipping routes • oil interceptors • oil spill clean-up: • inflatable booms • skimmers • absorbent materials • polymerising materials • dispersants • steam cleaning • bioremediation.",
+"level": null,
+"points": null,
+"page": 58,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.8",
+"title": "Pesticides",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "pesticides-and-heavy-metals",
+"statements": [
+{
+"id": "3.4.3.2.8-01",
+"short": "",
+"text": "Examples of different pesticide groups should be used to illustrate the main pollutant properties:",
+"guidance": "• Toxicity. • Systemic/contact action. • Specificity. • Persistence. • Liposolubility. • Bioaccumulation. • Biomagnification. • Mobility. • Synergism.",
+"level": null,
+"points": null,
+"page": 58,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.8-02",
+"short": "",
+"text": "Effects",
+"guidance": "• Direct toxic impacts on non-target species. • Toxic impacts after increased concentration. • Indirect effects: food chain impacts, loss of inter- species relationships.",
+"level": null,
+"points": null,
+"page": 58,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.8-03",
+"short": "",
+"text": "Control",
+"guidance": "Restrictions on use of selected pesticides, eg organochlorines, organophosphates.",
+"level": null,
+"points": null,
+"page": 58,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.9",
+"title": "Nutrient pollution",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "water-pollution",
+"statements": [
+{
+"id": "3.4.3.2.9-01",
+"short": "",
+"text": "Source",
+"guidance": "Nitrates (leachate/runoff) and phosphates (sewage effluent).",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-02",
+"short": "",
+"text": "Effect",
+"guidance": "Eutrophication (combined effects of nitrates and phosphates).",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-03",
+"short": "",
+"text": "Nitrates and human health",
+"guidance": "• Methaemoglobinaemia/blue baby syndrome. • Possible human carcinogen.",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-04",
+"short": "",
+"text": "Controls",
+"guidance": "Nitrates: • use of low solubility fertilisers • nitrate vulnerable zones. Phosphates: iron phosphate precipitation.",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-05",
+"short": "",
+"text": "Sources",
+"guidance": "Organic wastes (sewage, manure, silage fluids, effluent from processing of wood and paper).",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-06",
+"short": "",
+"text": "Effect",
+"guidance": "Deoxygenation caused by microbial aerobic decomposition.",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.9-07",
+"short": "",
+"text": "Controls",
+"guidance": "The major stages in treatment of organic wastes: • pre-treatment: • grit traps, screens. • primary treatment • primary sedimentation • secondary treatment • aerobic bacterial decomposition: activated sludge/filter beds • secondary sedimentation. • tertiary treatment • phosphate removal • bacterial microfilters. • anaerobic sludge digestion.",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.10",
+"title": "Acid mine drainage",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "water-pollution",
+"statements": [
+{
+"id": "3.4.3.2.10-01",
+"short": "",
+"text": "Sources",
+"guidance": "• Oxidation of sulfide ores in mine spoil/rocks. • Drainage water/leachate.",
+"level": null,
+"points": null,
+"page": 59,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.10-02",
+"short": "",
+"text": "Effects",
+"guidance": "• Reduced pH – acid damage. • Increased solubility and mobilisation of toxic metals.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+},
+{
+"id": "3.4.3.2.10-03",
+"short": "",
+"text": "Control",
+"guidance": "Collection of drainage water and neutralization with lime.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"water-pollution"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.11",
+"title": "Heavy metals",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "pesticides-and-heavy-metals",
+"statements": [
+{
+"id": "3.4.3.2.11-01",
+"short": "",
+"text": "The properties of heavy metals should be analysed to understand why they have caused pollution problems and the strategies used to prevent pollution.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.11-02",
+"short": "",
+"text": "Properties",
+"guidance": "• Neurotoxicity. • Liposolubility. • Bioaccumulation. • Biomagnification.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.11-03",
+"short": "",
+"text": "Controls",
+"guidance": "• Discontinued uses, eg paint, petrol additives, lead pipes, solder for water pipes, lead fishing weights. • Waste storage at high pH to reduce solubility.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.11-04",
+"short": "",
+"text": "Properties",
+"guidance": "• Neurotoxicity. • Liposolubility. • Bioaccumulation. • Biomagnification.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+},
+{
+"id": "3.4.3.2.11-05",
+"short": "",
+"text": "The effect of chemical form on pollutant toxicity",
+"guidance": "• Elemental mercury. • Inorganic mercury. • Organic mercury.",
+"level": null,
+"points": null,
+"page": 60,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"pesticides-and-heavy-metals"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.12",
+"title": "Solid wastes",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "solid-wastes-noise-and-radiation",
+"statements": [
+{
+"id": "3.4.3.2.12-01",
+"short": "",
+"text": "Students should understand that the treatment method for solid wastes depends upon its properties.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-02",
+"short": "",
+"text": "The methods appropriate for each waste type should be analysed.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-03",
+"short": "",
+"text": "Domestic wastes",
+"guidance": "The advantages and disadvantages of the treatment options should be evaluated: • landfill • incineration • recycling • composting.",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-04",
+"short": "",
+"text": "Specialist solid wastes",
+"guidance": "Solid wastes with particular risks should be separated and treated individually.",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-05",
+"short": "",
+"text": "Radioactive waste",
+"guidance": "The sources and properties of the three waste categories should be understood to identify appropriate disposal methods: • high-level waste • intermediate-level waste • low-level waste. The need for sealed storage, monitoring, encapsulation, use of absorbers and cooling should be evaluated for each waste level.",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-06",
+"short": "",
+"text": "Asbestos",
+"guidance": "Secure, permanent, sealed storage.",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.12-07",
+"short": "",
+"text": "Cyanide",
+"guidance": "Incineration.",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.13",
+"title": "Noise",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "solid-wastes-noise-and-radiation",
+"statements": [
+{
+"id": "3.4.3.2.13-01",
+"short": "",
+"text": "The scientific principles of sound that affect noise pollution: • frequency range of human hearing • logarithmic nature of the dB scale • volume • threshold of human hearing.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-02",
+"short": "",
+"text": "The effects of noise on non-living objects: • acoustic fatigue • shock impacts.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 61,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-03",
+"short": "",
+"text": "The effects of noise on living organisms: • Humans: • hearing damage • stress, ulcers, heart disease • behavioural changes.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 62,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-04",
+"short": "",
+"text": "Other organisims: • livestock injuries • disturbance of breeding birds • reduced feeding success: bats, owls, dolphins • hearing damage/behavioural changes: cetaceans.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 62,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-05",
+"short": "",
+"text": "Sources",
+"guidance": "• Engine noise, especially at high thrust. • Air turbulence.",
+"level": null,
+"points": null,
+"page": 62,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-06",
+"short": "",
+"text": "Controls",
+"guidance": "Airport design and location: • location away from major population centres • taxi areas away from residential areas • provision of acoustic insulation • land-use restrictions • baffle mounds/acoustic insulation. Aircraft design: • engine designs to reduce noise emissions • aerodynamic surfaces. Airport operation: • the use of airport take-off and landing noise footprints in planning mitigation programmes • flight paths avoid urban areas • altitude restrictions • constant descent angle • night flight restrictions • noisy aircraft banned • fines for excessive noise • engine test restrictions • reduced use of reverse thrusters.",
+"level": null,
+"points": null,
+"page": 63,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-07",
+"short": "",
+"text": "Sources and controls",
+"guidance": "• Wheel vibration – track polishing, sound absorbing ballast. • Engine noise – sound absorbing suspension. • Pantograph turbulence – aerodynamic fairing. • Wheel squeal on corners – lubrication of wheels/track. • Braking squeal – use of composite material brakes.",
+"level": null,
+"points": null,
+"page": 63,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-08",
+"short": "",
+"text": "Sources and controls",
+"guidance": "• Wheel vibration/tyre noise – sound absorbing road surface, acoustic fences. • Engine noise – acoustic insulation. • Air turbulence – improved aerodynamics.",
+"level": null,
+"points": null,
+"page": 63,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-09",
+"short": "",
+"text": "Sources",
+"guidance": "• Air compressors. • Pile drivers, stamping machines. • Drills. • Mine blasting, military sonar.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-10",
+"short": "",
+"text": "Controls",
+"guidance": "• Worker ear protection/remote operation. • Acoustic insulation/mats/baffle mounds. • Restrictions on timing of operations. • Alternative procedures, eg pressing instead of stamping. • Drilling instead of pile-driving.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.13-11",
+"short": "",
+"text": "Sources",
+"guidance": "• Appliances – acoustic insulation. • Music – volume limiters.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+}
+]
+},
+{
+"code": "3.4.3.2.14",
+"title": "Ionising radiation",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "solid-wastes-noise-and-radiation",
+"statements": [
+{
+"id": "3.4.3.2.14-01",
+"short": "",
+"text": "Uses",
+"guidance": "• Nuclear weapons. • Nuclear electricity. • Ship propulsion. • Manufacturing industry. • Healthcare. • Agriculture.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-02",
+"short": "",
+"text": "Scientific principles",
+"guidance": "• Half-life and health risk. • Type of radiation and health risk: Relative Biological Effectiveness (RBE). • Exposure vs contamination. • Activation products. • Units: Becquerels, Grays, Sieverts.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-03",
+"short": "",
+"text": "Effects",
+"guidance": "• Free radical production, DNA damage. • Acute and chronic effects. • Somatic and gonadic effects.",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-04",
+"short": "",
+"text": "Control of exposure to radioactive materials.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 64,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-05",
+"short": "",
+"text": "Principles of control",
+"guidance": "• Exposure should be: As Low As Reasonably Achievable (ALARA). • Equipment should be: Best Available Technology Not Entailing Excessive Cost (BATNEEC). • The use of Risk:Benefit analysis.",
+"level": null,
+"points": null,
+"page": 65,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-06",
+"short": "",
+"text": "Controls",
+"guidance": "• Closed sources to prevent contamination. • Radiation absorbers. • Distance from source: the inverse square law. • Reduced period of exposure. • Worker monitoring at work/on leaving work.",
+"level": null,
+"points": null,
+"page": 65,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-07",
+"short": "",
+"text": "Radioactive waste management (see specialist solid wastes)",
+"guidance": "• High-level waste. • Intermediate-level waste. • Low-level waste.",
+"level": null,
+"points": null,
+"page": 65,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+},
+{
+"id": "3.4.3.2.14-08",
+"short": "",
+"text": "The principles of environmental monitoring",
+"guidance": "Critical Pathway Analysis (CPA), involves identifying the most likely route a material will take, based on its properties and features of the environment, eg: • wind and water current velocity and direction • geology and hydrology • food chain pathways. Environmental sampling: • atmospheric dust • soil • water • seaweeds, molluscs, fish • milk, vegetables, meat. Critical Group Monitoring (CGM). CGM involves identifying those members of the public who, because of their lifestyles, are most at risk. They are monitored. If they are safe, everyone else should be safe too.",
+"level": null,
+"points": null,
+"page": 65,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"solid-wastes-noise-and-radiation"
+]
+}
+]
+},
+{
+"code": "3.4.3.3",
+"title": "The use of scientific knowledge to develop new pollution control technologies",
+"paper": 1,
+"option": null,
+"area": "Strategies to control pollutants based on their properties and features of the environment",
+"theme": null,
+"module": 4,
+"aLevelOnly": false,
+"topic": "properties-of-pollutants",
+"statements": [
+{
+"id": "3.4.3.3-01",
+"short": "",
+"text": "Control technologies",
+"guidance": "• Methods to prevent pollutant release. • Monitoring impacts. • Treating contaminated areas by leachate collection. • Satellite monitoring of oil spills. • GPS ship tracking to monitor navigation and reduce accidents. • Adsorption of heavy metals using polymers. • Phytoremediation of land contaminated with heavy metals. • Bioremediation of hydrocarbon spills.",
+"level": null,
+"points": null,
+"page": 66,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"properties-of-pollutants"
+]
+}
+]
+},
+{
+"code": "3.5.1.1",
+"title": "Agroecosystems",
+"paper": 2,
+"option": null,
+"area": "Agriculture",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "agroecosystems",
+"statements": [
+{
+"id": "3.5.1.1-01",
+"short": "",
+"text": "The selection of species",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 68,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-02",
+"short": "",
+"text": "Suitability of the environment: • temperature • light: intensity, day length • water availability • soil fertility • topography • relief • pest problems.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 68,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-03",
+"short": "",
+"text": "Technological factors: • availability of energy • pesticides • machinery/equipment • irrigation • transport infrastructure.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 68,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-04",
+"short": "",
+"text": "The biotic factors that affect productivity.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-05",
+"short": "",
+"text": "Pest control: predators, competitors, pathogens, eg insects, fungi, weeds, bacteria.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-06",
+"short": "",
+"text": "Cultural pest control: • crop rotation/cultivation management • barrier crops • companion crops • predator habitats • biological control: introduced predators/pathogens • sterile male techniques • pheromone traps • genetic resistance.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-07",
+"short": "",
+"text": "Pesticides",
+"guidance": "How the properties of pesticides influence their effectiveness and environmental impacts: • toxicity • specificity • persistence • solubility in water/lipids • mode of action: contact/systemic. A comparison of insecticide groups to consider their relative advantages and disadvantages: • organochlorines • organophosphates • pyrethroids • neonicotinoids.",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-08",
+"short": "",
+"text": "Antibiotics: • as growth promoters • to prevent infection • to treat infections.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-09",
+"short": "",
+"text": "Pollinators: • controlled use of pesticides that harm bees and other pollinators • introduction of bee hives to flowering crops.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-10",
+"short": "",
+"text": "Nutrient supply: maintenance of soil biota: detritivores and decomposers.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 69,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-11",
+"short": "",
+"text": "Food chain energy losses: • control movement • temperature control • species selection: different food conversion ratios (FCRs).",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 70,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.1-12",
+"short": "",
+"text": "The abiotic factors that affect productivity",
+"guidance": "Abiotic factors controlled in agroecosystems: • temperature • light: intensity, day length • water availability • nutrient supply • topography • relief • pH • carbon dioxide • soil fertility • soil salinity.",
+"level": null,
+"points": null,
+"page": 70,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+}
+]
+},
+{
+"code": "3.5.1.2",
+"title": "Manipulation of food species to increase productivity: the advantages and disadvantages of the methods that are available to improve crop and livestock gene pools",
+"paper": 2,
+"option": null,
+"area": "Agriculture",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "agroecosystems",
+"statements": [
+{
+"id": "3.5.1.2-01",
+"short": "",
+"text": "Genetic manipulation: • selective breeding • asexual reproduction/vegetative propagation/cloning • genetic engineering/ transgenics/GM.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 70,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.2-02",
+"short": "",
+"text": "Agricultural energetics",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 70,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.2-03",
+"short": "",
+"text": "The ways in which agricultural energetics can be quantified and their applications: • productivity • efficiency • intensive/extensive systems • energy subsidies: machinery, fertilisers, pesticides, transport, processing • energy ratios and efficiency: a comparison of intensive and extensive systems.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 70,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+},
+{
+"id": "3.5.1.2-04",
+"short": "",
+"text": "Manipulation of food species to increase productivity: • stocking/crop density • monocultures: advantages and disadvantages.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"agroecosystems"
+]
+}
+]
+},
+{
+"code": "3.5.1.3",
+"title": "Environmental impacts of agriculture",
+"paper": 2,
+"option": null,
+"area": "Agriculture",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "sustainable-agriculture",
+"statements": [
+{
+"id": "3.5.1.3-01",
+"short": "",
+"text": "Habitat impacts: • habitat clearance • wetland drainage • ploughing of grassland • reduced biodiversity • genetic contamination • soil degradation and erosion.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.3-02",
+"short": "",
+"text": "Pollution • pesticides • nutrients • GHGs: methane, carbon dioxide, NOx.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.3-03",
+"short": "",
+"text": "Changes to the hydrological cycle: • unsustainable irrigation • changes in evapotranspiration.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+}
+]
+},
+{
+"code": "3.5.1.4",
+"title": "Social/economic/political factors which influence agricultural production",
+"paper": 2,
+"option": null,
+"area": "Agriculture",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "sustainable-agriculture",
+"statements": [
+{
+"id": "3.5.1.4-01",
+"short": "",
+"text": "Consumer choice: • social factors • cultural factors • religious factors • ethical factors.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.4-02",
+"short": "",
+"text": "Economic factors: • subsidies • guaranteed prices • quotas.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 71,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.4-03",
+"short": "",
+"text": "Political factors: • trade controls • economic controls • subsidies • guaranteed prices • quotas.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+}
+]
+},
+{
+"code": "3.5.1.5",
+"title": "Strategies to increase the sustainability of agriculture",
+"paper": 2,
+"option": null,
+"area": "Agriculture",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "sustainable-agriculture",
+"statements": [
+{
+"id": "3.5.1.5-01",
+"short": "",
+"text": "Pest control.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-02",
+"short": "",
+"text": "Reduced use of chemical pesticides.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-03",
+"short": "",
+"text": "Reduced use of antibiotics.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-04",
+"short": "",
+"text": "Cultural pest control: • weeding • mulching • crop rotation • barrier crops • biological control • predator habitats • polyculture/companion crops.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-05",
+"short": "",
+"text": "Integrated control.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-06",
+"short": "",
+"text": "Nutrient supplies: Use of natural processes: • nitrogen-fixing bacteria • decomposition • crop rotation.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-07",
+"short": "",
+"text": "Increased use of natural processes to supply nutrients: • recycling of organic matter • crop rotation • permaculture • growth of legumes • conservation of soil biota.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 72,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-08",
+"short": "",
+"text": "Energy inputs: • use of natural processes instead of artificial fertilisers • low tillage techniques.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 73,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-09",
+"short": "",
+"text": "Water management to ensure sustainable supplies.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 73,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+},
+{
+"id": "3.5.1.5-10",
+"short": "",
+"text": "Social impacts: the control of environmental impacts on rural communities.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 73,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-agriculture"
+]
+}
+]
+},
+{
+"code": "3.5.2.1",
+"title": "Marine Productivity",
+"paper": 2,
+"option": null,
+"area": "Aquatic food production systems",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "fishing-and-aquaculture",
+"statements": [
+{
+"id": "3.5.2.1-01",
+"short": "",
+"text": "The role of nutrients in controlling biological productivity",
+"guidance": "Nutrient availability. Variations in light levels: photic/aphotic zones.",
+"level": null,
+"points": null,
+"page": 74,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.1-02",
+"short": "",
+"text": "A comparison of productivity in open oceans, coastal areas, areas with upwelling",
+"guidance": "Students should understand how light and nutrient supplies control productivity in different areas.",
+"level": null,
+"points": null,
+"page": 74,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+}
+]
+},
+{
+"code": "3.5.2.2",
+"title": "Fishing",
+"paper": 2,
+"option": null,
+"area": "Aquatic food production systems",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "fishing-and-aquaculture",
+"statements": [
+{
+"id": "3.5.2.2-01",
+"short": "",
+"text": "The advantages and disadvantages of the main fishing methods",
+"guidance": "Catch effectiveness, catch selectivity, energy inputs, environmental impacts: • pelagic trawling • demersal trawling • purse seining • drift netting • long lining • shellfish traps.",
+"level": null,
+"points": null,
+"page": 74,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.2-02",
+"short": "",
+"text": "Environmental impacts of fishing",
+"guidance": "Population decline caused by overfishing. Changed age structure. By-catch. Ghost fishing. Damage to seabed, coral reefs, seagrass beds. Food web impacts.",
+"level": null,
+"points": null,
+"page": 75,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.2-03",
+"short": "",
+"text": "The methods of estimating fish populations and Maximum Sustainable Yield",
+"guidance": "The relationship between biomass, recruitment, growth, mortality and catch. Population sampling from the commercial catch: • catch size • catch per unit fishing effort • mean fish size • mean age. Data from research: • breeding success – egg/larvae density/survival.",
+"level": null,
+"points": null,
+"page": 75,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.2-04",
+"short": "",
+"text": "Methods of reducing environmental impacts of fishing",
+"guidance": "Catch quotas. Net design: • mesh design • mesh size • escape panels • acoustic deterrent devices (‘dolphin pingers’). Restricted fishing effort. No-take zones/protected breeding areas closed- seasons. Minimum catch size. Maximum catch size/protected individuals. Captive rearing and release to boost wild populations. Biodegradable/radio tracked equipment to reduce ghost fishing.",
+"level": null,
+"points": null,
+"page": 75,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+}
+]
+},
+{
+"code": "3.5.2.3",
+"title": "Aquaculture",
+"paper": 2,
+"option": null,
+"area": "Aquatic food production systems",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "fishing-and-aquaculture",
+"statements": [
+{
+"id": "3.5.2.3-01",
+"short": "",
+"text": "The relative merits of extensive and intensive aquaculture",
+"guidance": "Productivity, energetics and environmental impacts.",
+"level": null,
+"points": null,
+"page": 75,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.3-02",
+"short": "",
+"text": "Principles of aquaculture and their application to extensive and intensive systems",
+"guidance": "Species selection. Stock selection. Breeding/genetic control. Disease control. Control of competition. Control of nutrition. Control of abiotic factors: • temperature • dissolved oxygen • light levels • water flow.",
+"level": null,
+"points": null,
+"page": 76,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.3-03",
+"short": "",
+"text": "The extent to which aquaculture can replace fishing",
+"guidance": "Food requirements. Trophic level efficiency.",
+"level": null,
+"points": null,
+"page": 76,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+},
+{
+"id": "3.5.2.3-04",
+"short": "",
+"text": "Methods of reducing environmental impacts of aquaculture",
+"guidance": "Fish farm location. Control of organic wastes. Lower stocking density. Control escapes. Control of species and methods of collecting food for fish. Reduced use of pesticides/antibiotics. Feeding control.",
+"level": null,
+"points": null,
+"page": 76,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"fishing-and-aquaculture"
+]
+}
+]
+},
+{
+"code": "3.5.3.1",
+"title": "The resources and life-support services gained from forests",
+"paper": 2,
+"option": null,
+"area": "Forest resources",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "forest-resources",
+"statements": [
+{
+"id": "3.5.3.1-01",
+"short": "",
+"text": "Resources: • timber • fuel • food • fibres • medicines.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 77,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.1-02",
+"short": "",
+"text": "Ecosystem services: • atmospheric regulation • habitat and wildlife refuge • regulation of the hydrological cycle • climate regulation • soil conservation • recreation/amenity uses.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 77,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+}
+]
+},
+{
+"code": "3.5.3.2",
+"title": "The relationship between forest productivity and biodiversity",
+"paper": 2,
+"option": null,
+"area": "Forest resources",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "forest-resources",
+"statements": [
+{
+"id": "3.5.3.2-01",
+"short": "",
+"text": "The impacts on productivity and biodiversity of: • growth of non-indigenous species • single-species plantations • close planting • simple age structure.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 77,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+}
+]
+},
+{
+"code": "3.5.3.3",
+"title": "Deforestation",
+"paper": 2,
+"option": null,
+"area": "Forest resources",
+"theme": null,
+"module": 5,
+"aLevelOnly": false,
+"topic": "forest-resources",
+"statements": [
+{
+"id": "3.5.3.3-01",
+"short": "",
+"text": "The causes of deforestation",
+"guidance": "Exploitation above the MSY. Clearance for alternative land use.",
+"level": null,
+"points": null,
+"page": 77,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.3-02",
+"short": "",
+"text": "The effect of deforestation on resources, biodiversity, hydrology, soil and climate",
+"guidance": "Loss of resources: • timber, fuel, fibres, medicines • reduced biodiversity • loss of species • fragmentation of remaining forest areas.",
+"level": null,
+"points": null,
+"page": 77,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.3-03",
+"short": "",
+"text": "Changes to hydrology: • reduced interception and transpiration • increased runoff.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 78,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.3-04",
+"short": "",
+"text": "Impact on soil: • less dead organic matter • increased soil erosion • less protection of soil by vegetation and leaf litter • reduced root binding.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 78,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.3-05",
+"short": "",
+"text": "Climate impacts: • increased albedo • reduced carbon sequestration and carbon reservoir • reduced rainfall downwind.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 78,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+},
+{
+"id": "3.5.3.3-06",
+"short": "",
+"text": "Sustainable forest management",
+"guidance": "Mixed species plantations. Indigenous species. Mixed age structure. Selective logging.",
+"level": null,
+"points": null,
+"page": 78,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"forest-resources"
+]
+}
+]
+},
+{
+"code": "3.6.1.1",
+"title": "Negative feedback mechanisms which resist change",
+"paper": 2,
+"option": null,
+"area": "Dynamic equilibria",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "dynamic-equilibria",
+"statements": [
+{
+"id": "3.6.1.1-01",
+"short": "",
+"text": "Global Climate Change eg: • increased temperatures causing increased cloud cover and a higher albedo • increased carbon dioxide levels leading to greater photosynthesis and carbon sequestration.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 80,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+},
+{
+"id": "3.6.1.1-02",
+"short": "",
+"text": "Hydrological cycle eg: increased evaporation leading to increased precipitation.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 80,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+},
+{
+"id": "3.6.1.1-03",
+"short": "",
+"text": "Population regulation eg: homeostatic population regulation caused by density- dependent factors.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 80,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+}
+]
+},
+{
+"code": "3.6.1.2",
+"title": "Positive feedback mechanisms which increase change",
+"paper": 2,
+"option": null,
+"area": "Dynamic equilibria",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "dynamic-equilibria",
+"statements": [
+{
+"id": "3.6.1.2-01",
+"short": "",
+"text": "Global Climate Change.",
+"guidance": "Increased temperatures may increase the following features involved in positive feedback mechanisms: • melting of permafrost • ocean acidification • decline of albedo • methane hydrate releases • forest and peat fires • formation of cirrus clouds • soil decomposition rates.",
+"level": null,
+"points": null,
+"page": 80,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+}
+]
+},
+{
+"code": "3.6.1.3",
+"title": "Equilibrium tipping points which lead to new equilibria",
+"paper": 2,
+"option": null,
+"area": "Dynamic equilibria",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "dynamic-equilibria",
+"statements": [
+{
+"id": "3.6.1.3-01",
+"short": "",
+"text": "Global Climate Change.",
+"guidance": "These are natural processes that become self- sustaining due to human activities eg forest fires, methane hydrate releases, permafrost melting.",
+"level": null,
+"points": null,
+"page": 80,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+}
+]
+},
+{
+"code": "3.6.1.4",
+"title": "Diverse systems are more likely to be resistant to change",
+"paper": 2,
+"option": null,
+"area": "Dynamic equilibria",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "dynamic-equilibria",
+"statements": [
+{
+"id": "3.6.1.4-01",
+"short": "",
+"text": "High diversity natural systems: • coral reefs, tropical rainforests • low diversity human systems • agroecosystems.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 81,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"dynamic-equilibria"
+]
+}
+]
+},
+{
+"code": "3.6.2.1",
+"title": "Natural processes are driven by renewable energy, especially solar power",
+"paper": 2,
+"option": null,
+"area": "Energy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.2.1-01",
+"short": "",
+"text": "Hydrological cycle. Carbon cycle. Nitrogen cycle. Atmospheric circulation. Thermohaline circulation.",
+"guidance": "The use of renewable energy resources in natural processes provides long-term sustainability in contrast to anthropogenic processes reliant on non-renewable energy resources.",
+"level": null,
+"points": null,
+"page": 81,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.2.2",
+"title": "Natural processes use low energy-density resources",
+"paper": 2,
+"option": null,
+"area": "Energy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.2.2-01",
+"short": "",
+"text": "All the natural processes driven by solar energy are driven by low energy-density resources.",
+"guidance": "Natural processes that rely on low 'energy-density solar energy' capture the energy at a low energy density. It may be used in natural processes at a low energy density or may be converted into other energy forms with a higher energy-density which may be applied more easily to human activities.",
+"level": null,
+"points": null,
+"page": 81,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.2.3",
+"title": "Most natural processes occur at low temperatures",
+"paper": 2,
+"option": null,
+"area": "Energy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.2.3-01",
+"short": "",
+"text": "Eg: • photosynthesis produces carbohydrates • enzymes reduce the activation energy of reactions • nitrogen fixation.",
+"guidance": "Students should compare the natural systems that use low temperatures with human systems that use high temperatures eg biological fixation of nitrogen compared with the Haber process using fossil fuels.",
+"level": null,
+"points": null,
+"page": 82,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.2.4",
+"title": "Carbon footprints and sustainable development",
+"paper": 2,
+"option": null,
+"area": "Energy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.2.4-01",
+"short": "",
+"text": "The concept of carbon footprints introduced in the Physical Environment should be re-considered in evaluating the contribution of mimicking natural energy systems to achieve sustainability.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 82,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.3.1",
+"title": "Linear human systems lead to resource depletion and waste generation",
+"paper": 2,
+"option": null,
+"area": "Material cycles",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.3.1-01",
+"short": "",
+"text": "The use of fossil fuels",
+"guidance": "The reliance on non-renewable energy resources cannot be sustainable. Inefficient use and use when renewable resources are available accelerates depletion rates.",
+"level": null,
+"points": null,
+"page": 82,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+},
+{
+"id": "3.6.3.1-02",
+"short": "",
+"text": "The use of mineral resources",
+"guidance": "Human use of minerals often involves dispersal after use or produces mixtures from which separation is difficult. These make recovery and re-use difficult so sustainable exploitation is reduced.",
+"level": null,
+"points": null,
+"page": 82,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.3.2",
+"title": "Natural processes often link together in sequences that create cycles, with the waste products of one process being the raw materials for other processes",
+"paper": 2,
+"option": null,
+"area": "Material cycles",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.3.2-01",
+"short": "",
+"text": "Natural processes use a relatively small number of elements, which build into monomers. These build to produce a wide range of polymers eg carbohydrates, proteins.",
+"guidance": "Students should consider how the use and re-use of abundant, simple raw materials in natural cycles results in sustainability and how this principle may be applied to human systems.",
+"level": null,
+"points": null,
+"page": 82,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.3.3",
+"title": "Natural waste products are either non-toxic or do not build up to cause toxicity",
+"paper": 2,
+"option": null,
+"area": "Material cycles",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "sustainable-energy-and-material-cycles",
+"statements": [
+{
+"id": "3.6.3.3-01",
+"short": "",
+"text": "The molecules produced by natural processes are biodegradable and can be broken down to non-toxic products that are the raw materials for other natural processes.",
+"guidance": "Students should consider how the low toxicity of the wastes of natural systems and the natural processes that process them minimise environmental problems and provide sustainable supplies.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sustainable-energy-and-material-cycles"
+]
+}
+]
+},
+{
+"code": "3.6.4.1",
+"title": "The application of the principles of the circular economy to the development of sustainable lifestyles",
+"paper": 2,
+"option": null,
+"area": "The circular economy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "circular-economy",
+"statements": [
+{
+"id": "3.6.4.1-01",
+"short": "",
+"text": "Cycling of materials",
+"guidance": "Biogeochemical cycles and recycling.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-02",
+"short": "",
+"text": "Energy derived from renewable sources",
+"guidance": "Solar and non-solar renewable energy in natural and human systems.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-03",
+"short": "",
+"text": "Human activities should support ecosystems.",
+"guidance": "The inclusion of ecosystem conservation in human planning eg agriculture, forestry, fisheries, energy use, waste management.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-04",
+"short": "",
+"text": "Separation of technical and biological materials. Separation of biodegradable wastes from other",
+"guidance": "materials eg metals to enable reuse.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-05",
+"short": "",
+"text": "How diverse systems are more resistant to change.",
+"guidance": "Diverse ecosystems and diverse technical systems eg the use of a range of renewable energy resources.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-06",
+"short": "",
+"text": "Connected systems where the waste product of one process is the raw material for another process.",
+"guidance": "Natural biogeochemical cycles compared with pollution caused by human wastes.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-07",
+"short": "",
+"text": "Design of products for end of life reuse.",
+"guidance": "Design to enable re-use of components or materials eg vehicles, domestic equipment.",
+"level": null,
+"points": null,
+"page": 83,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-08",
+"short": "",
+"text": "Optimum production rather than maximum production.",
+"guidance": "Consideration of natural system where over- production supports processes upon which the system relies eg plant products which support pollinators, seed dispersal agents and microbes such as decomposers and mycorrhizal fungi. This can be contrasted with agroecosystems which aim for maximum harvested yields.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-09",
+"short": "",
+"text": "Technologies to design new products and improve system effectiveness.",
+"guidance": "Improved designs to increase energy use, reduce material use and enable dismantling for re-use",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-10",
+"short": "",
+"text": "Students must evaluate the extent to which the principles of the circular economy can be applied to human activities to develop sustainable lifestyles in the following activities:",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-11",
+"short": "",
+"text": "Land uses that support natural ecosystems",
+"guidance": "The inclusion of living organisms into urban landscapes to conserve wildlife and improve quality of life.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-12",
+"short": "",
+"text": "Water supplies",
+"guidance": "Water conservation and catchment management.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-13",
+"short": "",
+"text": "Mineral supplies",
+"guidance": "Increasing reserves by exploiting low-grade ores.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-14",
+"short": "",
+"text": "Waste management",
+"guidance": "Reduced use, reuse, repurposing, recycling.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-15",
+"short": "",
+"text": "Pollution control",
+"guidance": "A move from post-production treatment to non- release by changes in technology eg from internal combustion engines to fuel cells.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-16",
+"short": "",
+"text": "Energy supplies",
+"guidance": "The use of renewable energy resources and the development of low-temperature manufacturing processes.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+},
+{
+"id": "3.6.4.1-17",
+"short": "",
+"text": "Food production.",
+"guidance": "The inclusion of natural processes in nutrient supply, pest control and soil maintenance.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+}
+]
+},
+{
+"code": "3.6.4.2",
+"title": "Biocapacity and ecological footprints: a comparison of the factors controlling the impact of different ecological footprints on biocapacity",
+"paper": 2,
+"option": null,
+"area": "The circular economy",
+"theme": null,
+"module": 6,
+"aLevelOnly": false,
+"topic": "circular-economy",
+"statements": [
+{
+"id": "3.6.4.2-01",
+"short": "",
+"text": "Review of different regions of the world, including use of the WWF Living Planet Report, Living Planet Index and ecological footprint calculations.",
+"guidance": "Students should consider how the strategies that can be implemented to achieve sustainability could be used to reduce ecological footprints and maintain or enhance biocapacity in different regions of the world.",
+"level": null,
+"points": null,
+"page": 84,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"circular-economy"
+]
+}
+]
+},
+{
+"code": "3.7.1",
+"title": "Scientific methodologies",
+"paper": null,
+"option": null,
+"area": null,
+"theme": null,
+"module": 7,
+"aLevelOnly": false,
+"topic": "scientific-methodologies",
+"statements": [
+{
+"id": "3.7.1-01",
+"short": "",
+"text": "Sample location: random sampling",
+"guidance": "Importance of the avoidance of bias.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-02",
+"short": "",
+"text": "Sample location: systematic sampling",
+"guidance": "Regular sample intervals. Transects – applied to 'environmental gradients': • line transects • belt transects • continuous/interrupted transects.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-03",
+"short": "",
+"text": "Sample timing",
+"guidance": "To ensure data variability is detected. Selection of time intervals between samples.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-04",
+"short": "",
+"text": "Sample size",
+"guidance": "Dependent on sample homogeneity.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-05",
+"short": "",
+"text": "Number of samples",
+"guidance": "Dependent on data variability. To enable analysis of statistical significance.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-06",
+"short": "",
+"text": "Standardisation of techniques",
+"guidance": "To allow comparisons between different studies/ ensure consistent reliability.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+},
+{
+"id": "3.7.1-07",
+"short": "",
+"text": "Collection of statistically significant data",
+"guidance": "Experimental design should allow the assessment of statistical significance of the data collected.",
+"level": null,
+"points": null,
+"page": 86,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"scientific-methodologies"
+]
+}
+]
+},
+{
+"code": "3.7.2.1",
+"title": "Standard environmental techniques",
+"paper": null,
+"option": null,
+"area": "Sampling techniques",
+"theme": null,
+"module": 7,
+"aLevelOnly": false,
+"topic": "sampling-techniques",
+"statements": [
+{
+"id": "3.7.2.1-01",
+"short": "",
+"text": "Methods: • quadrats • quadrat size selection • types of quadrat • open frame quadrat • grid quadrat • point quadrat • kick sampling • surber samplers • colonisation media • pitfall traps • sweep nets • beating trays • light traps • Tüllgren funnel • extraction of earthworms from soil.",
+"guidance": "Students must understand the following features of each technique: • purpose/application of the method • how the method is carried out • limitations.",
+"level": null,
+"points": null,
+"page": 87,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.1-02",
+"short": "",
+"text": "Quantitative/comparative/numerical measures: • abundance scales, eg DAFOR scales • species richness • species diversity • species frequency • species density • percentage cover • Lincoln Index • Simpson’s Index of Biodiversity.",
+"guidance": "Students must understand the following features of each technique: • purpose/application of the method • how the method is carried out • limitations.",
+"level": null,
+"points": null,
+"page": 87,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.1-03",
+"short": "",
+"text": "Measurement of abiotic factors: • light intensity • temperature • wind velocity • humidity • water turbidity • water pH • water ion concentration, eg nitrates • soil analysis: • texture: sedimentation, sieving • pH • water content • organic matter content • measurement of bulk density",
+"guidance": "Students must understand the following features of each technique: • purpose/application of the method • how the method is carried out • limitations.",
+"level": null,
+"points": null,
+"page": 87,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+}
+]
+},
+{
+"code": "3.7.2.2",
+"title": "Fieldwork and laboratory activities",
+"paper": null,
+"option": null,
+"area": "Sampling techniques",
+"theme": null,
+"module": 7,
+"aLevelOnly": false,
+"topic": "sampling-techniques",
+"statements": [
+{
+"id": "3.7.2.2-01",
+"short": "",
+"text": "Fieldwork and laboratory activities. These should include, but not be limited to, the following. Ecological studies in suitable available habitats: • population size/density • species frequency • species distribution • biodiversity • soil analysis. The effects of climatic variability on the use of renewable energy resources: insolation intensity, wind velocity.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-02",
+"short": "",
+"text": "Factors affecting the rate of heat loss: insulation, volume.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-03",
+"short": "",
+"text": "The use of biotic indices in monitoring pollution: lichens, aquatic invertebrates.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-04",
+"short": "",
+"text": "The effect of pH on seed germination.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-05",
+"short": "",
+"text": "The effect of water turbidity on light penetration.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-06",
+"short": "",
+"text": "The effect of inorganic nutrients on the growth of aquatic plants/algae.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-07",
+"short": "",
+"text": "Factors affecting noise levels: distance from source, acoustic insulation.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-08",
+"short": "",
+"text": "The effect of slope and vegetation on rain splash soil erosion.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+},
+{
+"id": "3.7.2.2-09",
+"short": "",
+"text": "The effect of trees on microclimates.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 88,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"sampling-techniques"
+]
+}
+]
+},
+{
+"code": "3.7.2.3",
+"title": "Specialist techniques",
+"paper": null,
+"option": null,
+"area": "Sampling techniques",
+"theme": null,
+"module": 7,
+"aLevelOnly": false,
+"topic": "specialist-techniques",
+"statements": [
+{
+"id": "3.7.2.3-01",
+"short": "",
+"text": "Knowledge/understanding/application of the following techniques is required, but first-hand experience is not. Photography: • motion sensitive cameras • databases of physical features may be used to identify individuals, eg tiger stripe patterns, whaleshark spots, whale and dolphin fin damage. Marking: tags, rings, collars etc.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+},
+{
+"id": "3.7.2.3-02",
+"short": "",
+"text": "Auditory monitoring (sounds)/sonograms: birds, bats, cetaceans.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+},
+{
+"id": "3.7.2.3-03",
+"short": "",
+"text": "Radio/GPS/satellite tracking.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+},
+{
+"id": "3.7.2.3-04",
+"short": "",
+"text": "Data collected by satellite sensors, eg to monitor habitat change, water availability, rock density, ice cover, ice thickness.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+},
+{
+"id": "3.7.2.3-05",
+"short": "",
+"text": "Databases of blood/tissue samples/DNA/ eDNA.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+},
+{
+"id": "3.7.2.3-06",
+"short": "",
+"text": "Indirect evidence – shows the presence of the species even if it is not actually seen: • nests/burrows • droppings – can give information on diet, gender, territories • feeding marks, eg nuts, fruit • owl pellets – also give information on diet • tracks/footprints • territorial marks, eg scratching posts.",
+"guidance": "",
+"level": null,
+"points": null,
+"page": 89,
+"aLevelPart": null,
+"as": false,
+"topics": [
+"specialist-techniques"
+]
+}
+]
+}
+]

@@ -1,0 +1,33 @@
+{
+ "topic": "dynamic-equilibria",
+ "name": "Dynamic equilibria",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Dynamic equilibrium",
+   "definition": "A state in which opposing processes balance, so a system stays within limits although it is constantly changing.",
+   "examiner": "Stress that the processes continue; it is not a static state."
+  },
+  {
+   "term": "Negative feedback",
+   "definition": "A change that causes effects which reduce the original change, returning the system towards its original state.",
+   "examiner": "Example: more carbon dioxide increases photosynthesis, which removes carbon dioxide."
+  },
+  {
+   "term": "Positive feedback",
+   "definition": "A change that causes effects which increase the original change.",
+   "examiner": "Example: warming melts ice, lowering albedo, causing more warming."
+  },
+  {
+   "term": "Tipping point",
+   "definition": "The point beyond which a system moves to a new equilibrium and does not return when the original pressure is removed.",
+   "examiner": "Examples: loss of the Amazon rainforest, collapse of ice sheets."
+  },
+  {
+   "term": "Resilience",
+   "definition": "The ability of a system to recover after a disturbance.",
+   "examiner": "More diverse systems tend to be more resistant to change."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+---
+import Base from '../../layouts/Base.astro';
+import QuestionCard from '../../components/QuestionCard.astro';
+import { allQuestions } from '../../lib/data';
+const hard = allQuestions.filter((q) => q.difficulty === 'Hard' && !q.notCurrentSpec).sort((a, b) => (a.facility ?? 1) - (b.facility ?? 1));
+---
+<Base title="Hardest AQA A-level Environmental Science questions (from the examiners' reports)" description="The AQA Environmental Science questions the examiners' reports say students found hardest, with the mark scheme and the examiner's comment on where answers fell short." context="hardest" leadLine="Want to work through the hard ones with a tutor? Message us.">
+  <h1>The hardest AQA Environmental Science questions</h1>
+  <p>AQA's examiners' reports say how students did on each question. These are the {hard.length} parts from June 2022 to June 2025 that the reports describe as poorly answered, with the examiner's comment on where answers fell short. AQA published no reports for the 2020 and 2021 autumn series, so those papers are not rated.</p>
+  {hard.map((q) => <QuestionCard q={q} showTopics={true} />)}
+</Base>

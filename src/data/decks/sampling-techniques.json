@@ -1,0 +1,48 @@
+{
+ "topic": "sampling-techniques",
+ "name": "Sampling techniques",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Quadrat",
+   "definition": "A frame of known area used to sample plants or slow-moving animals.",
+   "examiner": "Give the type (open frame, grid or point) and what is recorded: number, species present or percentage cover."
+  },
+  {
+   "term": "Transect",
+   "definition": "A line across a habitat along which samples are taken.",
+   "examiner": "Line, belt or continuous transects show how species change along an environmental gradient."
+  },
+  {
+   "term": "Pitfall trap",
+   "definition": "A container sunk level with the soil surface to catch invertebrates moving over the ground.",
+   "examiner": "A cover keeps out rain and predators; traps should be emptied regularly."
+  },
+  {
+   "term": "Tüllgren funnel",
+   "definition": "Apparatus that uses light and heat above a soil or leaf litter sample to drive invertebrates down into a collecting pot.",
+   "examiner": "Standardise the sample volume, the lamp distance and the time."
+  },
+  {
+   "term": "Kick sampling",
+   "definition": "Disturbing the stream bed upstream of a net for a set time so that invertebrates are carried into it.",
+   "examiner": "Standardise the area disturbed and the time; a Surber sampler gives a fixed area."
+  },
+  {
+   "term": "Lincoln index",
+   "definition": "An estimate of population size from mark, release and recapture: (number in first sample × number in second sample) ÷ number of marked animals recaptured.",
+   "examiner": "Assumes marks do not affect survival, the marked animals mix fully, and there is no migration, birth or death between samples."
+  },
+  {
+   "term": "Simpson's index of diversity",
+   "definition": "A measure of biodiversity that takes account of both the number of species and the number of individuals of each.",
+   "examiner": "A higher value means greater diversity and usually a more stable ecosystem."
+  },
+  {
+   "term": "Secchi disc",
+   "definition": "A black and white disc lowered into water until it can no longer be seen, to measure turbidity.",
+   "examiner": "The depth of disappearance is the measurement: the shallower it is, the more turbid the water."
+  }
+ ]
+}

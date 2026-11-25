@@ -1,0 +1,43 @@
+{
+ "topic": "soils",
+ "name": "Soils",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Soil texture",
+   "definition": "The proportions of sand, silt and clay particles in a soil.",
+   "examiner": "It controls drainage, aeration and nutrient retention; found with a soil triangle."
+  },
+  {
+   "term": "Loam",
+   "definition": "A soil with a balance of sand, silt and clay.",
+   "examiner": "Drains well but holds water and nutrients, so is the most fertile texture."
+  },
+  {
+   "term": "Humus",
+   "definition": "Decomposed organic matter in soil.",
+   "examiner": "Holds water and nutrients and binds particles into crumbs, reducing erosion."
+  },
+  {
+   "term": "Leaching",
+   "definition": "The loss of soluble nutrients from soil as water drains through it.",
+   "examiner": "Worst on sandy soils and after heavy rain."
+  },
+  {
+   "term": "Soil erosion",
+   "definition": "The removal of soil by wind or water faster than it forms.",
+   "examiner": "Know the causes (bare soil, steep slopes, overgrazing) and the controls (contour ploughing, terraces, windbreaks, cover crops)."
+  },
+  {
+   "term": "Universal Soil Loss Equation",
+   "definition": "An equation that estimates the rate of soil erosion from rainfall, soil erodibility, slope, crop cover and management factors.",
+   "examiner": "Used to compare the effect of changing a farming practice."
+  },
+  {
+   "term": "Desertification",
+   "definition": "The degradation of land in dry areas until it can no longer support vegetation.",
+   "examiner": "Caused by overgrazing, deforestation and poor irrigation as well as climate."
+  }
+ ]
+}

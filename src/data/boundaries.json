@@ -1,0 +1,56 @@
+{
+ "source": "AQA's published subject grade boundaries for 7447 (June series). The total is 120 + 120 = 240 raw marks with no weighting. June 2026 and June 2024 are taken from AQA's own boundary documents; June 2025, 2023 and 2022 from published copies of AQA's documents. June 2022 was graded more generously after the pandemic.",
+ "alevel": [
+  {
+   "series": "June 2026",
+   "max": 240,
+   "A*": 171,
+   "A": 152,
+   "B": 129,
+   "C": 107,
+   "D": 85,
+   "E": 63
+  },
+  {
+   "series": "June 2025",
+   "max": 240,
+   "A*": 172,
+   "A": 155,
+   "B": 131,
+   "C": 108,
+   "D": 85,
+   "E": 62
+  },
+  {
+   "series": "June 2024",
+   "max": 240,
+   "A*": 178,
+   "A": 163,
+   "B": 139,
+   "C": 115,
+   "D": 91,
+   "E": 68
+  },
+  {
+   "series": "June 2023",
+   "max": 240,
+   "A*": 181,
+   "A": 165,
+   "B": 141,
+   "C": 118,
+   "D": 95,
+   "E": 72
+  },
+  {
+   "series": "June 2022",
+   "max": 240,
+   "A*": 164,
+   "A": 146,
+   "B": 120,
+   "C": 95,
+   "D": 70,
+   "E": 45
+  }
+ ],
+ "as": []
+}

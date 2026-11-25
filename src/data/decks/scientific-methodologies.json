@@ -1,0 +1,48 @@
+{
+ "topic": "scientific-methodologies",
+ "name": "Scientific methodologies",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Random sampling",
+   "definition": "Choosing sample sites using random numbers so that every part of the study area has an equal chance of being sampled.",
+   "examiner": "Use it where there is no environmental gradient. Say how: a grid and random number coordinates."
+  },
+  {
+   "term": "Systematic sampling",
+   "definition": "Taking samples at regular intervals, usually along a transect.",
+   "examiner": "Use it where conditions change along a gradient, such as distance from a road or up a shore."
+  },
+  {
+   "term": "Reliability",
+   "definition": "How consistent results are: reliable results are similar when the investigation is repeated.",
+   "examiner": "More samples, standardised methods and controlling other variables improve reliability."
+  },
+  {
+   "term": "Standard deviation",
+   "definition": "A measure of how spread out the values are around the mean.",
+   "examiner": "A small standard deviation means the mean is more reliable; overlapping standard deviations suggest a difference may not be significant."
+  },
+  {
+   "term": "Null hypothesis",
+   "definition": "The statement that there is no significant difference or correlation between the sets of data.",
+   "examiner": "Write it before the test, then accept or reject it by comparing the test value with the critical value."
+  },
+  {
+   "term": "Statistical significance",
+   "definition": "A result is significant when the probability that it arose by chance is below the chosen level, usually 5% (p < 0.05).",
+   "examiner": "Say \"less than 5% probability that the difference is due to chance\", not that the result is \"proved\"."
+  },
+  {
+   "term": "Control variable",
+   "definition": "A factor kept the same so that it does not affect the dependent variable.",
+   "examiner": "Name the variable and say how it would be kept constant."
+  },
+  {
+   "term": "Anomalous result",
+   "definition": "A result that does not fit the pattern of the others.",
+   "examiner": "Repeat it; do not include it in the mean unless the repeat confirms it."
+  }
+ ]
+}

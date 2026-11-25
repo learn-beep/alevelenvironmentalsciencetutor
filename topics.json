@@ -1,0 +1,42 @@
+{
+ "groups": [
+  {"key": "The living environment", "sec": "3.1", "paper": 2},
+  {"key": "The physical environment", "sec": "3.2", "paper": 1},
+  {"key": "Energy resources", "sec": "3.3", "paper": 1},
+  {"key": "Pollution", "sec": "3.4", "paper": 1},
+  {"key": "Biological resources", "sec": "3.5", "paper": 2},
+  {"key": "Sustainability", "sec": "3.6", "paper": 2},
+  {"key": "Research methods", "sec": "3.7", "paper": null}
+ ],
+ "topics": [
+  {"slug": "conditions-for-life-on-earth", "name": "Conditions for life on Earth", "secs": ["3.1.1"]},
+  {"slug": "importance-of-biodiversity", "name": "Biodiversity: why it matters and how humans affect it", "secs": ["3.1.2.1", "3.1.2.2"]},
+  {"slug": "conservation-methods", "name": "Conservation priorities, legislation and captive breeding", "secs": ["3.1.2.3.1", "3.1.2.3.2", "3.1.2.3.3"]},
+  {"slug": "habitat-conservation", "name": "Habitat conservation and ecological monitoring", "secs": ["3.1.2.3.4", "3.1.2.3.5", "3.1.2.3.6"]},
+  {"slug": "life-processes-in-the-biosphere", "name": "Life processes in the biosphere: adaptation, succession and populations", "secs": ["3.1.3"]},
+  {"slug": "atmosphere-and-climate-change", "name": "The atmosphere and global climate change", "secs": ["3.2.1.1", "3.2.1.2"]},
+  {"slug": "ozone-depletion", "name": "Ozone depletion", "secs": ["3.2.1.3"]},
+  {"slug": "the-hydrosphere", "name": "The hydrosphere: water resources and ocean currents", "secs": ["3.2.2"]},
+  {"slug": "mineral-resources", "name": "Mineral resources", "secs": ["3.2.3"]},
+  {"slug": "biogeochemical-cycles", "name": "Biogeochemical cycles: carbon, nitrogen and phosphorus", "secs": ["3.2.4"]},
+  {"slug": "soils", "name": "Soils: fertility, erosion and management", "secs": ["3.2.5"]},
+  {"slug": "energy-resources-and-sustainability", "name": "Energy in society, features of energy resources and their sustainability", "secs": ["3.3.1", "3.3.2", "3.3.3"]},
+  {"slug": "energy-technologies", "name": "Future energy supplies: fossil fuels, nuclear and renewables", "secs": ["3.3.4.1"]},
+  {"slug": "energy-conservation", "name": "Energy conservation: transport, buildings and industry", "secs": ["3.3.4.2"]},
+  {"slug": "properties-of-pollutants", "name": "Pollutant properties, dispersal, degradation and principles of control", "secs": ["3.4.1", "3.4.2", "3.4.3.1", "3.4.3.3"]},
+  {"slug": "atmospheric-pollution", "name": "Atmospheric pollution: smoke, acid precipitation, NOx, hydrocarbons and carbon monoxide", "secs": ["3.4.3.2.1", "3.4.3.2.2", "3.4.3.2.3", "3.4.3.2.4", "3.4.3.2.5"]},
+  {"slug": "water-pollution", "name": "Water pollution: thermal, oil, nutrients and acid mine drainage", "secs": ["3.4.3.2.6", "3.4.3.2.7", "3.4.3.2.9", "3.4.3.2.10"]},
+  {"slug": "pesticides-and-heavy-metals", "name": "Pesticides and heavy metals", "secs": ["3.4.3.2.8", "3.4.3.2.11"]},
+  {"slug": "solid-wastes-noise-and-radiation", "name": "Solid wastes, noise and ionising radiation", "secs": ["3.4.3.2.12", "3.4.3.2.13", "3.4.3.2.14"]},
+  {"slug": "agroecosystems", "name": "Agriculture: agroecosystems and improving crops and livestock", "secs": ["3.5.1.1", "3.5.1.2"]},
+  {"slug": "sustainable-agriculture", "name": "Agriculture: environmental impacts and sustainability", "secs": ["3.5.1.3", "3.5.1.4", "3.5.1.5"]},
+  {"slug": "fishing-and-aquaculture", "name": "Aquatic food production: fishing and aquaculture", "secs": ["3.5.2"]},
+  {"slug": "forest-resources", "name": "Forest resources and deforestation", "secs": ["3.5.3"]},
+  {"slug": "dynamic-equilibria", "name": "Dynamic equilibria: feedback and tipping points", "secs": ["3.6.1"]},
+  {"slug": "sustainable-energy-and-material-cycles", "name": "Sustainability: energy and material cycles", "secs": ["3.6.2", "3.6.3"]},
+  {"slug": "circular-economy", "name": "The circular economy and ecological footprints", "secs": ["3.6.4"]},
+  {"slug": "scientific-methodologies", "name": "Scientific methodologies: sampling, statistics and experimental design", "secs": ["3.7.1"]},
+  {"slug": "sampling-techniques", "name": "Sampling techniques: fieldwork and laboratory methods", "secs": ["3.7.2.1", "3.7.2.2"]},
+  {"slug": "specialist-techniques", "name": "Specialist techniques: tracking, satellite data and eDNA", "secs": ["3.7.2.3"]}
+ ]
+}

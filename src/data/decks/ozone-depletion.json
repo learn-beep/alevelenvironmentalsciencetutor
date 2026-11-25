@@ -1,0 +1,38 @@
+{
+ "topic": "ozone-depletion",
+ "name": "Ozone depletion",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Ozone layer",
+   "definition": "The region of the stratosphere where ozone is concentrated and absorbs most of the ultraviolet B radiation from the Sun.",
+   "examiner": "Do not confuse it with tropospheric ozone, which is a pollutant."
+  },
+  {
+   "term": "Chlorofluorocarbons (CFCs)",
+   "definition": "Stable chlorine-containing compounds once used as refrigerants, aerosol propellants and solvents.",
+   "examiner": "Their stability lets them reach the stratosphere, where UV releases chlorine."
+  },
+  {
+   "term": "Chlorine radical",
+   "definition": "A chlorine atom with an unpaired electron, released from CFCs by ultraviolet light, which breaks down ozone and is regenerated.",
+   "examiner": "One radical destroys many ozone molecules because it is not used up."
+  },
+  {
+   "term": "Montreal Protocol",
+   "definition": "The 1987 international agreement to phase out the substances that deplete the ozone layer.",
+   "examiner": "An example of a successful international agreement: alternatives were available."
+  },
+  {
+   "term": "Polar vortex",
+   "definition": "The circulating winds that isolate very cold air over the pole in winter.",
+   "examiner": "Stratospheric clouds form in it, giving surfaces for the reactions that release chlorine in spring."
+  },
+  {
+   "term": "HFCs",
+   "definition": "Hydrofluorocarbons: replacements for CFCs that contain no chlorine, so do not deplete ozone.",
+   "examiner": "They are strong greenhouse gases, which is their drawback."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "topic": "properties-of-pollutants",
+ "name": "Properties of pollutants",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Persistence",
+   "definition": "The length of time a pollutant remains in the environment before it breaks down.",
+   "examiner": "Persistent pollutants travel further and can build up."
+  },
+  {
+   "term": "Bioaccumulation",
+   "definition": "The build-up of a substance in the tissues of an organism over its lifetime.",
+   "examiner": "Happens with substances that are liposoluble and persistent."
+  },
+  {
+   "term": "Biomagnification",
+   "definition": "The increase in concentration of a substance at each higher trophic level of a food chain.",
+   "examiner": "Top predators are affected most; do not confuse it with bioaccumulation in one organism."
+  },
+  {
+   "term": "Synergism",
+   "definition": "When two pollutants together have a greater effect than the sum of their separate effects.",
+   "examiner": "Ozone and sulfur dioxide on plants is an example."
+  },
+  {
+   "term": "Liposolubility",
+   "definition": "The ability of a substance to dissolve in fats and oils.",
+   "examiner": "Liposoluble substances cross cell membranes and are stored in fatty tissue."
+  },
+  {
+   "term": "Temperature inversion",
+   "definition": "A layer of warm air above cooler air near the ground, which traps pollutants.",
+   "examiner": "Common in valleys on calm, clear nights; explains smog episodes."
+  },
+  {
+   "term": "Critical pathway analysis",
+   "definition": "Predicting the routes a pollutant will take through the environment to find where it will become most concentrated.",
+   "examiner": "Used to decide where to monitor, for example for radioactive discharges."
+  },
+  {
+   "term": "Mutagen",
+   "definition": "A substance that causes changes to DNA.",
+   "examiner": "A carcinogen causes cancer; a teratogen causes birth abnormalities."
+  }
+ ]
+}

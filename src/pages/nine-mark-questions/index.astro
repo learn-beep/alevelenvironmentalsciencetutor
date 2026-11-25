@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { allQuestions, allTopics } from '../../lib/data';
+const lor = allQuestions.filter((q) => q.format === 'Extended response').sort((a, b) => b.year - a.year);
+const title = (q) => q.text.replace(/^Write an essay on one of the following topics\.\s*/i, '').replace(/\s*\[\d+ marks?\].*$/, '').slice(0, 260);
+const byTopic = allTopics.map((t) => [t, lor.filter((q) => q.topics.includes(t.slug))]).filter(([, qs]) => qs.length);
+---
+<Base title="Every AQA A-level Environmental Science nine-mark question, by topic, with a timed tool" description="All the nine-mark extended response questions set on AQA Environmental Science (7447), grouped by topic, with a timed practice tool that reveals the mark scheme's levels and indicative content." context="nine-mark-questions" leadLine="Stuck at Level 2 on the nine-markers? Message us.">
+  <h1>Nine-mark extended response questions</h1>
+  <p>{lor.length} nine-mark questions marked by level, grouped by topic. Pick one to answer under timed conditions (about 13 minutes), then open the mark scheme with its levels and indicative content and decide your level.</p>
+  <h2>How they are marked</h2>
+  <div class="table-wrap"><table><thead><tr><th>Level</th><th>Marks</th><th>What it takes</th></tr></thead><tbody>
+    <tr><td>Level 3</td><td>7–9</td><td>A comprehensive answer that stays on the question, applies a wide range of knowledge, links the issues together and reaches a conclusion supported by judgements.</td></tr>
+    <tr><td>Level 2</td><td>4–6</td><td>Focused in parts but lacking depth: a range of knowledge with some application, a conclusion that is only partly supported, a few errors or omissions.</td></tr>
+    <tr><td>Level 1</td><td>1–3</td><td>Some relevant knowledge with little application to the question and no supported conclusion.</td></tr>
+  </tbody></table></div>
+  <p class="muted">The examiner decides the level from the whole answer, then the mark within it. The command word matters: "evaluate", "discuss" and "assess" all need both sides and a judgement. Summary written by the site from AQA's mark schemes; being checked by our tutor.</p>
+  <h2>Timed practice</h2>
+  <div class="panel">
+    <div class="chips" id="topic-chips">{byTopic.map(([t]) => <button class="chip" type="button" data-topic={t.slug} aria-pressed="false">{t.name.split(':')[0]}</button>)}</div>
+    <div><button class="btn btn-accent" type="button" id="draw">Give me a question</button> <span class="muted">(random from the selected topics, or from all)</span></div>
+  </div>
+  <div id="play" hidden>
+    <div class="playbar"><span id="which"></span><span class="timer" id="timer">13:30</span><button class="btn" type="button" id="starttimer"><Icon name="timer" />Start the clock</button></div>
+    <div id="card"></div>
+  </div>
+  <h2>All the questions by topic</h2>
+  {byTopic.map(([t, qs]) => <><h3><a href={`/questions/${t.slug}/`}>{t.name}</a> <span class="muted">({qs.length})</span></h3>
+    <div class="table-wrap"><table><thead><tr><th>Series</th><th>Paper</th><th>What it asks</th></tr></thead>
+    <tbody>{qs.map((q) => <tr><td>{q.series}</td><td>{q.paper} Q{q.question}</td><td><a href={`/questions/${t.slug}/#${q.id}`}>{title(q)}</a></td></tr>)}</tbody></table></div></>)}
+  <script>
+    import { loadBank, card, saveScore, shuffle, fmtTime } from '../../scripts/player.js';
+    const $ = (s) => document.querySelector(s);
+    const sel = new Set(); let bank = null, timer = null, secs = 810, current = null;
+    document.querySelectorAll('[data-topic]').forEach((b) => b.addEventListener('click', () => { const on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', String(on)); on ? sel.add(b.dataset.topic) : sel.delete(b.dataset.topic); }));
+    loadBank().then((b) => { bank = b; });
+    $('#draw').addEventListener('click', () => {
+      if (!bank) return;
+      const pool = bank.q.filter((q) => q.f === 'Extended response' && !q.old && q.c && (!sel.size || q.t.some((t) => sel.has(t))));
+      if (!pool.length) return;
+      current = shuffle(pool)[0];
+      secs = Math.round(current.m * 90);
+      $('#play').hidden = false; $('#which').textContent = `${current.s} ${current.p} Q${current.q} (${current.m} marks)`; $('#timer').textContent = fmtTime(secs); if (timer) clearInterval(timer);
+      const holder = $('#card'); holder.innerHTML = ''; holder.appendChild(card(current, { mark: true, onMark: (m) => saveScore(current.t, m, current.m, current.id) }));
+      window.scrollTo({ top: $('#play').offsetTop - 80, behavior: 'smooth' });
+    });
+    $('#starttimer').addEventListener('click', () => { if (timer) clearInterval(timer); timer = setInterval(() => { secs--; $('#timer').textContent = fmtTime(Math.max(secs, 0)); if (secs <= 0) { clearInterval(timer); $('#timer').textContent = "Time's up"; } }, 1000); });
+  </script>
+</Base>

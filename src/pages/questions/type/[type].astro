@@ -1,0 +1,45 @@
+---
+import Base from '../../../layouts/Base.astro';
+import QuestionCard from '../../../components/QuestionCard.astro';
+import { allQuestions } from '../../../lib/data';
+export function getStaticPaths() {
+  // [slug, matcher, title, intro]. A matcher is a format name, or "feature:<name>" for a feature flag from the bank.
+  const T = [
+    ['short-answer', 'Short answer', 'Short-answer questions', 'State, give, outline, describe, explain and suggest questions worth one to six marks: most of each paper. One distinct point per mark, and for "explain" each point needs its reason.'],
+    ['data-interpretation', 'Data interpretation', 'Data interpretation questions', 'Questions answered from a graph, table, map or passage. Quote figures with their units, describe the trend before the exceptions, and stay with the data given.'],
+    ['calculations', 'Calculation', 'Calculation questions', 'Percentages, rates, means, ratios, energy and yield calculations and statistical tests. Show the working: the mark schemes give marks for the method even when the final answer is wrong.'],
+    ['practical-questions', 'feature:practical', 'Practical and fieldwork questions', 'Questions on planning investigations, sampling, measuring abiotic and biotic factors, variables, reliability and evaluating methods. They come up on both papers.'],
+    ['statistics', 'feature:statistics', 'Statistics questions', 'Standard deviation, choosing a statistical test, null hypotheses, critical values and significance.'],
+    ['multiple-choice', 'Multiple choice', 'Multiple-choice questions', 'The one-mark multiple-choice items set inside the structured questions, with the answer behind the button.'],
+    ['table-completion', 'Table completion', 'Table completion questions', 'Complete the table: matching technologies, pollutants, methods and examples.'],
+    ['nine-mark-questions', 'Extended response', 'Nine-mark extended response questions', 'The nine-mark questions marked in three levels. Level 3 needs a wide range of accurate knowledge applied to the question, with a supported conclusion.'],
+    ['essays', 'Essay', '25-mark essays', 'Question 11 on each paper: a choice of two essays, marked in five levels. Each pair is shown; in the exam you answer one.'],
+  ];
+
+  return T.map(([slug, matcher, title, intro]) => ({ params: { type: slug }, props: { slug, matcher, title, intro, others: T.filter((t) => t[0] !== slug) } }));
+}
+const { slug, matcher, title, intro, others } = Astro.props;
+const match = (q) => matcher.startsWith('feature:') ? (q.features || []).includes(matcher.slice(8)) && q.format !== 'Multiple choice' : q.format === matcher;
+const qs = allQuestions.filter((q) => match(q) && !q.notCurrentSpec).sort((a, b) => b.year - a.year);
+const papers = [...new Set(qs.map((q) => q.paper))].sort();
+---
+<Base title={`${title}: AQA A-level Environmental Science past-paper questions`} description={`${qs.length} ${title.toLowerCase()} from AQA Environmental Science papers, with mark schemes and examiners' comments.`} context={`type:${slug}`}>
+  <h1>{title}</h1>
+  <p>{intro} {qs.length} questions.</p>
+  <p class="muted">Other types: {others.map((t, i) => <>{i ? ' · ' : ''}<a href={`/questions/type/${t[0]}/`}>{t[2]}</a></>)}</p>
+  <div class="filterbar"><div class="chips" role="group" aria-label="Filter">
+    <button class="chip" type="button" aria-pressed="true" data-filter="">All</button>
+    {papers.map((p) => <button class="chip" type="button" aria-pressed="false" data-filter={`paper:${p}`}>{p}</button>)}
+  </div><div class="count" id="count"></div></div>
+  {qs.map((q) => <div data-paper={q.paper}><QuestionCard q={q} showTopics={true} /></div>)}
+  <script>
+    const chips = document.querySelectorAll('.chip[data-filter]');
+    const wraps = document.querySelectorAll('[data-paper]');
+    chips.forEach((c) => c.addEventListener('click', () => {
+      chips.forEach((x) => x.setAttribute('aria-pressed', 'false')); c.setAttribute('aria-pressed', 'true');
+      const [key, val] = (c.getAttribute('data-filter') || '').split(':');
+      wraps.forEach((w) => { const card = w.querySelector('.qcard'); const v = key === 'paper' ? w.dataset.paper : card.getAttribute('data-' + key); w.hidden = !!key && v !== val; });
+      document.getElementById('count').textContent = `Showing ${[...wraps].filter((w) => !w.hidden).length} of ${wraps.length}`;
+    }));
+  </script>
+</Base>

@@ -1,0 +1,43 @@
+{
+ "topic": "biogeochemical-cycles",
+ "name": "Biogeochemical cycles",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Biogeochemical cycle",
+   "definition": "The movement of an element between living organisms and the atmosphere, hydrosphere and lithosphere.",
+   "examiner": "Be able to name the reservoirs and the processes that move the element between them."
+  },
+  {
+   "term": "Nitrogen fixation",
+   "definition": "The conversion of nitrogen gas into ammonia or nitrates, by bacteria, lightning or the Haber process.",
+   "examiner": "Rhizobium in the root nodules of legumes is the usual biological example."
+  },
+  {
+   "term": "Nitrification",
+   "definition": "The oxidation of ammonium ions to nitrites and then nitrates by bacteria in aerobic soil.",
+   "examiner": "Needs oxygen, so waterlogging slows it."
+  },
+  {
+   "term": "Denitrification",
+   "definition": "The conversion of nitrates to nitrogen gas by bacteria in anaerobic conditions.",
+   "examiner": "Reduces soil fertility; drainage reduces it."
+  },
+  {
+   "term": "Eutrophication",
+   "definition": "Nutrient enrichment of water, leading to algal growth, death and decomposition of the algae, and deoxygenation.",
+   "examiner": "Give the sequence in order; the fish die from lack of oxygen, not from the nutrients."
+  },
+  {
+   "term": "Residence time",
+   "definition": "The average time an atom or molecule stays in a reservoir.",
+   "examiner": "Short residence times mean a reservoir responds quickly to change."
+  },
+  {
+   "term": "Mycorrhizal fungi",
+   "definition": "Fungi living in association with plant roots that increase the uptake of phosphates.",
+   "examiner": "Important because phosphates are not very soluble and move slowly in soil."
+  }
+ ]
+}

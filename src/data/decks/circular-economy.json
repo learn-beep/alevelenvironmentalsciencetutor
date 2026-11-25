@@ -1,0 +1,43 @@
+{
+ "topic": "circular-economy",
+ "name": "The circular economy",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Circular economy",
+   "definition": "An economy in which materials are kept in use by reuse, repair and recycling, so that waste and the use of new resources are minimised.",
+   "examiner": "Contrast with the linear \"take, make, dispose\" economy."
+  },
+  {
+   "term": "Linear economy",
+   "definition": "An economy in which resources are extracted, made into products and thrown away after use.",
+   "examiner": "Leads to resource depletion and waste."
+  },
+  {
+   "term": "Ecological footprint",
+   "definition": "The area of land and water needed to supply the resources a population uses and to absorb its wastes.",
+   "examiner": "Measured in global hectares."
+  },
+  {
+   "term": "Biocapacity",
+   "definition": "The ability of an area to produce renewable resources and absorb wastes.",
+   "examiner": "When the footprint is greater than biocapacity there is ecological overshoot."
+  },
+  {
+   "term": "Cradle to cradle design",
+   "definition": "Designing products so that at the end of their life the materials become the raw materials for new products.",
+   "examiner": "Design for disassembly makes the materials easy to separate."
+  },
+  {
+   "term": "Biomimetics",
+   "definition": "Designs that copy structures or processes found in living organisms.",
+   "examiner": "Have one named example ready."
+  },
+  {
+   "term": "Carbon footprint",
+   "definition": "The total greenhouse gas emissions caused by an activity, product or person, expressed as carbon dioxide equivalent.",
+   "examiner": "Includes indirect emissions from making and transporting goods."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "topic": "life-processes-in-the-biosphere",
+ "name": "Life processes in the biosphere",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Ecological niche",
+   "definition": "The role of a species in its ecosystem: how it uses resources and interacts with other species.",
+   "examiner": "Two species cannot occupy exactly the same niche in the same habitat for long."
+  },
+  {
+   "term": "Carrying capacity",
+   "definition": "The largest population of a species that a habitat can support indefinitely.",
+   "examiner": "Set by limiting factors such as food, space and predation."
+  },
+  {
+   "term": "Density-dependent factor",
+   "definition": "A factor whose effect on a population grows as the population density rises, such as disease, food supply or predation.",
+   "examiner": "Density-independent factors, such as drought or fire, act regardless of density."
+  },
+  {
+   "term": "r-selected species",
+   "definition": "Species that reproduce quickly, with many offspring and little parental care.",
+   "examiner": "They recover quickly from exploitation; K-selected species do not."
+  },
+  {
+   "term": "K-selected species",
+   "definition": "Species that reproduce slowly, with few offspring, long lives and much parental care.",
+   "examiner": "They are easily over-exploited and slow to recover."
+  },
+  {
+   "term": "Pioneer species",
+   "definition": "The first species to colonise bare ground or water at the start of succession.",
+   "examiner": "They tolerate harsh conditions and change them, for example by adding organic matter."
+  },
+  {
+   "term": "Maximum sustainable yield",
+   "definition": "The largest harvest that can be taken from a population year after year without reducing it.",
+   "examiner": "It is hard to estimate, so harvests set at it often lead to over-exploitation."
+  }
+ ]
+}

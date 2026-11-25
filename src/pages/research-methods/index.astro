@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allQuestions, topicByslug } from '../../lib/data';
+const prac = allQuestions.filter((q) => (q.features || []).includes('practical'));
+const codes = {};
+for (const q of allQuestions) for (const s of q.skills || []) { if (!/^(Me|ST|PS) /.test(s.code)) continue; if (!codes[s.code]) codes[s.code] = { text: s.text, qs: [] }; codes[s.code].qs.push(q); }
+// What each methodology and sampling technique involves and what the papers ask about it, in the site's words. To be checked by a tutor.
+const how = {
+  'Me 1': ['Random sampling', 'Used where there is no environmental gradient. A grid and random number coordinates remove bias in where the samples are taken. Papers ask how you would place the quadrats and why random placing is needed.'],
+  'Me 2': ['Systematic sampling', 'Used along an environmental gradient: samples at regular intervals on a transect (line, belt or continuous). Papers ask you to choose it for a named situation, such as distance from a road or down a shore.'],
+  'Me 3': ['Number of samples', 'More samples when the results vary a lot; a running mean that levels off shows you have enough. Papers ask how the reliability of a mean could be improved.'],
+  'Me 4': ['Sample size', 'How large each sample should be: quadrat size to suit the organisms, a volume of water or mass of soil large enough to be representative.'],
+  'Me 5': ['Sample timing', 'Time of day, season and weather change what you find, so samples to be compared are taken at the same time or across the whole period.'],
+  'Me 6': ['Standard deviation and statistical tests', 'Standard deviation shows the spread around a mean; a statistical test gives the probability that a difference or a correlation is due to chance. Papers ask you to choose the test, state the null hypothesis and use the critical value.'],
+  'ST 1': ['Measuring abiotic factors', 'Light intensity, temperature, wind velocity, humidity, water turbidity (Secchi disc or turbidity meter), ion concentrations such as nitrates and phosphates, and pH.'],
+  'ST 2': ['Quadrats', 'Open frame, grid and point quadrats for population size, species richness, distribution and percentage cover; choosing a quadrat size that suits the species.'],
+  'ST 3': ['Measuring edaphic (soil) factors', 'Soil texture by sedimentation, sieves and the soil triangle; water content and organic matter content by drying and burning to constant mass; pH and bulk density.'],
+  'ST 4': ['Animals on and in the soil', 'Pitfall traps, the Tüllgren funnel for soil invertebrates and extracting earthworms with an irritant solution.'],
+  'ST 5': ['Animals on foliage and flying animals', 'Light traps, sweep nets, beating trays and bat detectors, and how to standardise each so samples can be compared.'],
+  'ST 6': ['Aquatic sampling', 'Pond nets, kick sampling, Surber samplers and colonisation media for freshwater invertebrates.'],
+};
+const groups = [['Methodologies', 'Me', 'The six methodologies of section 3.7.1: how to design sampling so the results are reliable.'], ['Sampling techniques', 'ST', 'The six groups of sampling techniques in section 3.7.2 that students carry out in fieldwork and the laboratory.']];
+const ps = Object.keys(codes).filter((c) => c.startsWith('PS')).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+const ref = (q) => `${q.series.replace('June ', 'Jun ').replace('November ', 'Nov ').replace('Specimen paper', 'Specimen')} ${q.paper.replace('Paper ', 'P')} Q${q.question}`;
+const sorted = (qs) => [...qs].sort((a, b) => b.year - a.year);
+---
+<Base title="AQA A-level Environmental Science research methods: sampling, fieldwork and statistics, with every past-paper question" description="The methodologies (Me 1 to Me 6) and sampling techniques (ST 1 to ST 6) of AQA A-level Environmental Science: what each involves, what the written papers ask about it, and every past-paper question tagged to it, with mark schemes." context="research-methods" leadLine="Research methods come up on both papers. A tutor can take you through the sampling, the statistics and how to evaluate a method.">
+  <h1>Research methods, sampling and fieldwork</h1>
+  <p>Research methods (section 3.7) are examined on both papers, and at least 15% of the marks are for practical work. There is no practical endorsement or coursework in Environmental Science: the practical skills are tested in the written papers. The specification sets out six methodologies and six groups of sampling techniques; below is what each involves, what the papers ask about it, and every past-paper question tagged to it. There are {prac.length} practical and fieldwork question parts in total; <a href="/questions/type/practical-questions/">see them all with their mark schemes</a>.</p>
+  <p><a class="btn" href="/questions/scientific-methodologies/">Scientific methodologies questions</a> <a class="btn" href="/questions/sampling-techniques/">Sampling techniques questions</a> <a class="btn" href="/questions/type/statistics/">Statistics questions</a></p>
+  {groups.map(([h, pre, intro]) => <>
+    <h2>{h}</h2>
+    <p>{intro}</p>
+    <div class="table-wrap"><table><thead><tr><th>Skill</th><th>What it is</th><th>What the papers ask</th><th>Questions</th></tr></thead>
+    <tbody>{Object.keys(how).filter((c) => c.startsWith(pre)).map((c) => <tr><td>{codes[c] ? <a href={`#${c.replace(' ', '')}`}>{c}</a> : c}</td><td>{how[c][0]}</td><td>{how[c][1]}</td><td>{codes[c]?.qs.length || 0}</td></tr>)}</tbody></table></div>
+  </>)}
+  <p class="muted">Descriptions written by the site from the specification and the mark schemes; being checked by our tutor.</p>
+  {Object.keys(how).filter((c) => codes[c]).map((c) => <section id={c.replace(' ', '')}><h2>{c}: {how[c][0]}</h2><p class="muted">{how[c][1]}</p>
+    <details class="spec-fold"><summary>{codes[c].qs.length} questions</summary><ul class="qlinks">{sorted(codes[c].qs).map((q) => <li><a href={`/questions/${q.topics[0]}/#${q.id}`}>{ref(q)}</a> <span class="muted">{q.marks} mark{q.marks === 1 ? '' : 's'} · {topicByslug.get(q.topics[0])?.name}</span></li>)}</ul></details></section>)}
+  <h2 id="skills">Practical skills assessed in the written papers</h2>
+  <p class="muted">The specification's practical skills (PS 1.1 to PS 4.1): planning, variables, evaluating methods and results, graphs and data processing.</p>
+  {ps.map((c) => <section id={c.replace(' ', '').replace('.', '-')}><h3>{c}: {codes[c].text.length > 140 ? codes[c].text.slice(0, 137).replace(/\s+\S*$/, '') + '…' : codes[c].text}</h3>
+    <details class="spec-fold"><summary>{codes[c].qs.length} questions</summary><ul class="qlinks">{sorted(codes[c].qs).map((q) => <li><a href={`/questions/${q.topics[0]}/#${q.id}`}>{ref(q)}</a> <span class="muted">{q.marks} mark{q.marks === 1 ? '' : 's'} · {topicByslug.get(q.topics[0])?.name}</span></li>)}</ul></details></section>)}
+</Base>

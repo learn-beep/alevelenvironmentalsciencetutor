@@ -1,0 +1,43 @@
+{
+ "topic": "atmosphere-and-climate-change",
+ "name": "The atmosphere and climate change",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Greenhouse effect",
+   "definition": "The absorption by atmospheric gases of infrared radiation emitted by the Earth, which keeps the surface warmer than it would otherwise be.",
+   "examiner": "Visible light passes through; it is the longer-wavelength infrared leaving the surface that is absorbed."
+  },
+  {
+   "term": "Albedo",
+   "definition": "The proportion of incoming solar radiation that a surface reflects.",
+   "examiner": "Ice and snow have a high albedo; losing them is a positive feedback on warming."
+  },
+  {
+   "term": "Positive feedback",
+   "definition": "A change that causes effects which increase the original change.",
+   "examiner": "Melting permafrost releasing methane is the standard example."
+  },
+  {
+   "term": "Carbon sequestration",
+   "definition": "The removal of carbon dioxide from the atmosphere and its long-term storage.",
+   "examiner": "By forests, soils and oceans, or by carbon capture and storage."
+  },
+  {
+   "term": "Proxy data",
+   "definition": "Indirect evidence of past conditions, such as ice cores, tree rings and pollen in sediments.",
+   "examiner": "Know the limitations: limited accuracy and gaps in the record."
+  },
+  {
+   "term": "Thermohaline circulation",
+   "definition": "Ocean currents driven by differences in water density caused by temperature and salinity.",
+   "examiner": "It distributes heat; fresh water from melting ice could weaken it."
+  },
+  {
+   "term": "Geoengineering",
+   "definition": "Large-scale deliberate intervention in the climate system to counter warming.",
+   "examiner": "Be ready to evaluate: cost, uncertainty and side effects."
+  }
+ ]
+}

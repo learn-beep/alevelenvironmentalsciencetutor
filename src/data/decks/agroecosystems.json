@@ -1,0 +1,43 @@
+{
+ "topic": "agroecosystems",
+ "name": "Agroecosystems and productivity",
+ "checked": false,
+ "studies": [],
+ "terms": [
+  {
+   "term": "Agroecosystem",
+   "definition": "An ecosystem managed to produce food or other farm products.",
+   "examiner": "Farmers control abiotic and biotic factors to raise productivity."
+  },
+  {
+   "term": "Limiting factor",
+   "definition": "The factor in shortest supply, which restricts the rate of growth.",
+   "examiner": "Raising any other factor has no effect until the limiting one is supplied."
+  },
+  {
+   "term": "Selective breeding",
+   "definition": "Choosing parents with desired characteristics and breeding from them over many generations.",
+   "examiner": "Slow, and narrows the gene pool."
+  },
+  {
+   "term": "Genetic modification",
+   "definition": "Transferring a gene from one species into another to give it a new characteristic.",
+   "examiner": "Be able to give advantages and concerns, such as gene transfer to wild relatives."
+  },
+  {
+   "term": "Food conversion ratio",
+   "definition": "The mass of feed needed to produce a unit mass of livestock.",
+   "examiner": "Lower is more efficient; poultry and fish are lower than cattle."
+  },
+  {
+   "term": "Integrated pest management",
+   "definition": "Using a combination of cultural, biological and chemical methods, with pesticides only when pest numbers pass a threshold.",
+   "examiner": "Reduces pesticide use and the risk of resistance."
+  },
+  {
+   "term": "Monoculture",
+   "definition": "Growing a single crop over a large area.",
+   "examiner": "Efficient to manage but vulnerable to pests and disease and low in biodiversity."
+  }
+ ]
+}

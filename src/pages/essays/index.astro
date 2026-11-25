@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { allQuestions, allTopics } from '../../lib/data';
+const lor = allQuestions.filter((q) => q.format === 'Essay').sort((a, b) => b.year - a.year);
+const title = (q) => q.text.replace(/^Write an essay on one of the following topics\.\s*/i, '').replace(/\s*\[\d+ marks?\].*$/, '').slice(0, 260);
+const byTopic = allTopics.map((t) => [t, lor.filter((q) => q.topics.includes(t.slug))]).filter(([, qs]) => qs.length);
+---
+<Base title="Every AQA A-level Environmental Science 25-mark essay title, by topic, with a timed tool" description="All the 25-mark essay titles set on AQA Environmental Science (7447) question 11, grouped by topic, with a timed practice tool that reveals the mark scheme's indicative content and five levels." context="essays" leadLine="Essays stuck in Level 3? Message us.">
+  <h1>25-mark essays</h1>
+  <p>{lor.length} essay titles from question 11, grouped by topic. Each paper ends with a choice of two essays and you answer one; both titles of every pair are here. Pick one to answer under timed conditions (about 35 to 40 minutes), then open the mark scheme with its indicative content and level descriptors and decide your level.</p>
+  <h2>How they are marked</h2>
+  <div class="table-wrap"><table><thead><tr><th>Level</th><th>Marks</th><th>What it takes</th></tr></thead><tbody>
+    <tr><td>Level 5</td><td>21–25</td><td>A comprehensive answer with a clear, sustained focus on the question. Accurate, detailed content from across the course, applied systematically, with conclusions fully supported by judgements.</td></tr>
+    <tr><td>Level 4</td><td>16–20</td><td>Focus largely sustained; content mainly accurate and detailed, and usually applied to the question. Conclusions are supported and mostly relevant.</td></tr>
+    <tr><td>Level 3</td><td>11–15</td><td>A partial answer, focused in parts; mostly accurate but not always detailed, with some attempt to link ideas and reach a conclusion.</td></tr>
+    <tr><td>Level 2</td><td>6–10</td><td>Some relevant knowledge, but with limited detail and little application to the question asked.</td></tr>
+    <tr><td>Level 1</td><td>1–5</td><td>A few relevant points with little structure or connection to the question.</td></tr>
+  </tbody></table></div>
+  <p class="muted">The marks are split AO1 10, AO2 10 and AO3 5: knowledge, applying it to the title, and evaluation. The essay is synoptic, so the best answers bring in material from several sections of the specification and keep relating it to the wording of the title. Summary written by the site from AQA's mark schemes; being checked by our tutor.</p>
+  <h2>Timed practice</h2>
+  <div class="panel">
+    <div class="chips" id="topic-chips">{byTopic.map(([t]) => <button class="chip" type="button" data-topic={t.slug} aria-pressed="false">{t.name.split(':')[0]}</button>)}</div>
+    <div><button class="btn btn-accent" type="button" id="draw">Give me a question</button> <span class="muted">(random from the selected topics, or from all)</span></div>
+  </div>
+  <div id="play" hidden>
+    <div class="playbar"><span id="which"></span><span class="timer" id="timer">37:30</span><button class="btn" type="button" id="starttimer"><Icon name="timer" />Start the clock</button></div>
+    <div id="card"></div>
+  </div>
+  <h2>All the questions by topic</h2>
+  {byTopic.map(([t, qs]) => <><h3><a href={`/questions/${t.slug}/`}>{t.name}</a> <span class="muted">({qs.length})</span></h3>
+    <div class="table-wrap"><table><thead><tr><th>Series</th><th>Paper</th><th>What it asks</th></tr></thead>
+    <tbody>{qs.map((q) => <tr><td>{q.series}</td><td>{q.paper} Q{q.question}</td><td><a href={`/questions/${t.slug}/#${q.id}`}>{title(q)}</a></td></tr>)}</tbody></table></div></>)}
+  <script>
+    import { loadBank, card, saveScore, shuffle, fmtTime } from '../../scripts/player.js';
+    const $ = (s) => document.querySelector(s);
+    const sel = new Set(); let bank = null, timer = null, secs = 2250, current = null;
+    document.querySelectorAll('[data-topic]').forEach((b) => b.addEventListener('click', () => { const on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', String(on)); on ? sel.add(b.dataset.topic) : sel.delete(b.dataset.topic); }));
+    loadBank().then((b) => { bank = b; });
+    $('#draw').addEventListener('click', () => {
+      if (!bank) return;
+      const pool = bank.q.filter((q) => q.f === 'Essay' && !q.old && q.c && (!sel.size || q.t.some((t) => sel.has(t))));
+      if (!pool.length) return;
+      current = shuffle(pool)[0];
+      secs = Math.round(current.m * 90);
+      $('#play').hidden = false; $('#which').textContent = `${current.s} ${current.p} Q${current.q} (${current.m} marks)`; $('#timer').textContent = fmtTime(secs); if (timer) clearInterval(timer);
+      const holder = $('#card'); holder.innerHTML = ''; holder.appendChild(card(current, { mark: true, onMark: (m) => saveScore(current.t, m, current.m, current.id) }));
+      window.scrollTo({ top: $('#play').offsetTop - 80, behavior: 'smooth' });
+    });
+    $('#starttimer').addEventListener('click', () => { if (timer) clearInterval(timer); timer = setInterval(() => { secs--; $('#timer').textContent = fmtTime(Math.max(secs, 0)); if (secs <= 0) { clearInterval(timer); $('#timer').textContent = "Time's up"; } }, 1000); });
+  </script>
+</Base>

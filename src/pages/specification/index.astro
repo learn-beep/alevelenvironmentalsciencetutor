@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hint from '../../components/Hint.astro';
+import spec from '../../data/spec.json';
+const sections = spec.filter((s) => s.statements.length);
+const total = sections.reduce((n, s) => n + s.statements.length, 0);
+import { GROUPS } from '../../lib/groups';
+const papers = GROUPS.map((g) => [Number(g.sec.split('.')[1]), g.heading]);
+---
+<Base title={`AQA A-level Environmental Science specification checklist (7447): all ${total} statements, tickable`} description={`All ${total} content statements of the AQA A-level Environmental Science specification (7447) as a tickable checklist, from the living environment to research methods, with links to the past-paper questions for each topic.`} context="specification" leadLine="Big gaps on the checklist? A tutor can plan the order to close them.">
+  <h1>Specification checklist</h1>
+  <p>Every content statement in the AQA Environmental Science specification (7447, version 1.0), under AQA's section numbers; we number the statements within each subsection (3.2.1.3-04 is the fourth statement of 3.2.1.3). Tick what you're confident with; ticks are saved in this browser only. Paper 1 covers 3.2 the physical environment, 3.3 energy resources, 3.4 pollution and 3.7 research methods. Paper 2 covers 3.1 the living environment, 3.5 biological resources, 3.6 sustainability and 3.7 research methods.</p>
+  <Hint id="ticks" text="Ticks are saved in this browser only. The revision planner uses them to pick your weak topics." />
+  <p class="muted"><span id="done">0</span> of {total} ticked · <button class="chip" type="button" id="clear">Clear my ticks</button></p>
+  {papers.map(([n, h]) => (
+    <>
+      <h2 class="strand-head">{h}</h2>
+      {sections.filter((s) => s.module === n).map((s) => (
+        <section>
+          <h3>{s.code} {s.title} <span class="muted small-text">{s.area}</span> {s.topic && <a class="small-text" href={`/questions/${s.topic}/`}>questions</a>}</h3>
+          <ul class="spec-list">
+            {s.statements.map((st) => (
+              <li><label><input type="checkbox" data-spec={st.id} /><span><strong>{st.id}</strong> {st.text}{st.guidance && <><br /><span class="muted small-text">{st.guidance}</span></>}</span></label></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </>
+  ))}
+  <script>
+    const KEY = 'malt-spec';
+    const boxes = document.querySelectorAll('input[data-spec]');
+    const done = document.getElementById('done');
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+    const paint = () => { let n = 0; boxes.forEach((b) => { b.checked = !!state[b.dataset.spec]; if (b.checked) n++; }); done.textContent = String(n); };
+    boxes.forEach((b) => b.addEventListener('change', () => { state[b.dataset.spec] = b.checked; try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {} paint(); }));
+    document.getElementById('clear').addEventListener('click', () => { state = {}; try { localStorage.removeItem(KEY); } catch {} paint(); });
+    paint();
+  </script>
+</Base>

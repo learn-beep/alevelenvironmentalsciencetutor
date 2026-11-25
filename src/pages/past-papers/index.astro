@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, OCR_MATERIALS } from '../../lib/data';
+const seriesList = [...new Set(allPapers.map((p) => p.series))];
+const cell = (series, n) => allPapers.find((p) => p.series === series && String(p.paperNo).replace(/^0/, '') === n);
+---
+<Base title="AQA A-level Environmental Science past papers (7447) with question-by-question tables" description="Every public AQA A-level Environmental Science (7447) past paper, November 2020 to June 2025 plus the specimen papers, with a question-by-question table, the mark scheme and the examiner's comments on each question." context="past-papers">
+  <h1>AQA A-level Environmental Science past papers</h1>
+  <p>Every 7447 series AQA has made public, all from AQA's own downloads. Each paper page lists every question with its topic, marks and type, and shows the questions with their mark schemes and examiner's comments.</p>
+  <p><a class="btn" href={OCR_MATERIALS} rel="noopener">AQA's assessment resources</a></p>
+  <h2>A level (7447)</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th><th>Paper 1</th><th>Paper 2</th></tr></thead>
+    <tbody>{seriesList.map((s) => <tr><td>{s}</td>{['1', '2'].map((n) => { const p = cell(s, n); return <td>{p ? <a href={`/past-papers/${p.slug}/`}>{p.paper}</a> : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  <p class="muted">Paper 1: the physical environment, energy resources, pollution and research methods. Paper 2: the living environment, biological resources, sustainability and research methods. Each is 3 hours and 120 marks, ending with a choice of two 25-mark essays. The first exams for this specification were in June 2019; the June 2019 papers are no longer on AQA's public site, so they are not here. There were no summer exams in 2020 or 2021; the November 2020 and November 2021 papers are the autumn series AQA ran instead, and AQA published no examiner's report for them. The specimen papers were written in 2017 before the first exams. The June 2026 papers will be added when AQA makes them public.</p>
+</Base>
